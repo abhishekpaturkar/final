@@ -12,6 +12,7 @@ function Navbar() {
           <Link to="/schemes" className="hover:text-yellow-300 transition-colors duration-300">Govt Schemes</Link>
           <Link to="/about" className="hover:text-yellow-300 transition-colors duration-300">About</Link>
           <Link to="/FAQ" className="hover:text-yellow-300 transition-colors duration-300">FAQs</Link>
+          <Link to="/news" className="hover:text-yellow-300 transition-colors duration-300">News</Link>
         </div>
       </div>
     </nav>

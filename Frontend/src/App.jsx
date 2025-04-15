@@ -5,6 +5,7 @@ import Prediction from './Pages/Prediction';
 import Scheme from './Pages/Scheme';
 import About from './Pages/About';
 import FAQ from './Pages/FAQ';
+import News from './Pages/News';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Route path="/schemes" element={<Scheme />} />
       <Route path="/about" element={<About />} />
       <Route path="/FAQ" element={<FAQ />} />
+      <Route path="/news" element={<News />} />
     </Routes>
   );
 }
