@@ -11,8 +11,9 @@ function Navbar() {
           <Link to="/predict" className="hover:text-yellow-300 transition-colors duration-300">Predict</Link>
           <Link to="/schemes" className="hover:text-yellow-300 transition-colors duration-300">Govt Schemes</Link>
           <Link to="/about" className="hover:text-yellow-300 transition-colors duration-300">About</Link>
-          <Link to="/FAQ" className="hover:text-yellow-300 transition-colors duration-300">FAQs</Link>
           <Link to="/news" className="hover:text-yellow-300 transition-colors duration-300">News</Link>
+          <Link to="/info" className="hover:text-yellow-300 transition-colors duration-300">Information</Link>
+          <Link to="/FAQ" className="hover:text-yellow-300 transition-colors duration-300">FAQs</Link>
         </div>
       </div>
     </nav>
