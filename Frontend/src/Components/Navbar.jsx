@@ -53,7 +53,7 @@ function Navbar() {
   return (
     <nav className="bg-green-600 p-4 shadow-md text-white">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-xl font-bold">Ayushman Prediction</h1>
+        <h1 className="text-xl font-bold">भविशकृषी</h1>
         <div className="space-x-8 flex items-center">
           <Link to="/" className="hover:text-yellow-300 transition-colors duration-300">Home</Link>
           <Link to="/predict" className="hover:text-yellow-300 transition-colors duration-300">Predict</Link>
