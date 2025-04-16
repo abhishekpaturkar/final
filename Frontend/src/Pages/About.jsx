@@ -73,7 +73,7 @@ const About = () => {
 				</Carousel>
 
 				<section className="mb-12">
-					<h2 className="text-2xl font-semibold mb-4">Team भविशकृषी</h2>
+					<h2 className="text-2xl font-semibold mb-4">Team भविष्कृषी</h2>
 					<div className="grid grid-cols-2 md:grid-cols-4 gap-4">
 						{teamMembers.map((member, idx) => (
 							<Card key={idx} className="shadow-md">

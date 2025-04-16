@@ -83,7 +83,7 @@ const Footer = () => {
 			</div>
 
 			<div className="text-center text-gray-300 py-4 border-t border-green-700 text-sm">
-				© 2025 Team भविशकृषी. All rights reserved.
+				© 2025 Team भविष्कृषी. All rights reserved.
 			</div>
 		</footer>
 	)
