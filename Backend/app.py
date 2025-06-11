@@ -29,34 +29,54 @@
 # if __name__ == '__main__':
 #     app.run(debug=True)
 
-
 from flask import Flask, request, jsonify
 import pandas as pd
 from flask_cors import CORS
-
 
 app = Flask(__name__)
 CORS(app)
 CORS(app, origins=["http://localhost:5173"])
 
-
-
+# Existing route
 @app.route('/predict', methods=['GET'])
 def get_predictions():
     try:
-        location_commodity = request.args.get('query')  # example: PuneOnion
-
-        # Build path dynamically if you have multiple files
+        location_commodity = request.args.get('query')  # e.g. PuneOnion
         filepath = f"./Models/Output/{location_commodity}_Pred.csv"
-
         df = pd.read_csv(filepath)
         df['Month'] = pd.to_datetime(df['Month'])
-        df['Month'] = df['Month'].dt.strftime('%Y-%m')  # Format month nicely
-
+        df['Month'] = df['Month'].dt.strftime('%Y-%m')
         return jsonify(df.to_dict(orient='records'))
+    except Exception as e:
+        return jsonify({"error": str(e)})
+
+
+# ✅ New comparison route
+@app.route('/comparison', methods=['GET'])
+def get_comparison_data():
+    try:
+        city = request.args.get('query')  # e.g. Pune
+        commodities = ["Potato", "Onion", "Wheat", "Rice", "Maize", "Jowar"]
+        combined_df = None
+
+        for commodity in commodities:
+            filename = f"./Models/Output/{city}{commodity}_Pred.csv"
+            df = pd.read_csv(filename)
+            df['Month'] = pd.to_datetime(df['Month'])
+            df['Month'] = df['Month'].dt.strftime('%Y-%m')
+            df = df[['Month', 'Predicted Price']].rename(columns={'Predicted Price': commodity})
+
+            if combined_df is None:
+                combined_df = df
+            else:
+                combined_df = pd.merge(combined_df, df, on='Month', how='outer')
+
+        combined_df = combined_df.sort_values(by='Month')
+        return jsonify(combined_df.to_dict(orient='records'))
 
     except Exception as e:
         return jsonify({"error": str(e)})
+
 
 if __name__ == '__main__':
     app.run(debug=True)
