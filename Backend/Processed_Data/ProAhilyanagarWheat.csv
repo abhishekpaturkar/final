@@ -1,0 +1,2443 @@
+Sl_no,District Name,Market Name,Commodity,Variety,Grade,Min_Price,Max Price (Rs./Quintal),Modal_Price,Price_Date
+4485,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,1750,1750,1750,2018-06-10
+9444,Ahmednagar,Sangamner,Wheat,Other,FAQ,1650,1901,1776,2018-06-11
+7200,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1775,1715,2018-06-12
+10037,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1800,1800,2018-06-13
+3096,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1800,1780,2018-06-14
+13985,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1751,2000,1890,2018-06-15
+5119,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1740,1790,1780,2018-06-16
+7194,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1750,1700,2018-06-17
+1266,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2200,2050,2018-06-18
+9416,Ahmednagar,Sangamner,Wheat,Other,FAQ,1600,1870,1735,2018-06-19
+14027,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2025,1925,2018-06-20
+3169,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1699,1800,1750,2018-06-21
+980,Ahmednagar,Akole,Wheat,Maharashtra 2189,FAQ,1700,2200,1800,2018-06-22
+7246,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1750,1725,2018-06-23
+10052,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1800,1800,2018-06-24
+5812,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1800,1700,2018-06-25
+138,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,1891,1795,2018-06-26
+3104,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1836,1750,2018-06-27
+12819,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1600,1800,1800,2018-06-28
+3185,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,1800,1750,2018-06-29
+10066,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1800,1800,2018-06-30
+10027,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1800,1800,2018-07-01
+133,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,1841,1770,2018-07-02
+1223,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2100,2000,2018-07-03
+103,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1680,1800,1740,2018-07-04
+1832,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2018-07-05
+976,Ahmednagar,Akole,Wheat,Maharashtra 2189,FAQ,1500,2200,1700,2018-07-06
+1229,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2100,2000,2018-07-07
+7258,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1775,1740,2018-07-08
+1231,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2100,2000,2018-07-09
+6015,Ahmednagar,Rahata,Wheat,Other,FAQ,1786,1845,1800,2018-07-10
+8596,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1890,1900,1895,2018-07-11
+11582,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1550,1650,1550,2018-07-12
+977,Ahmednagar,Akole,Wheat,Maharashtra 2189,FAQ,1500,2200,1725,2018-07-13
+8588,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1875,2121,1950,2018-07-14
+10178,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,1900,1900,2018-07-15
+12814,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1450,1675,1500,2018-07-16
+8512,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1800,1975,1880,2018-07-17
+9551,Ahmednagar,Sangamner,Wheat,Other,FAQ,1850,2145,1998,2018-07-18
+12812,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1400,1801,1775,2018-07-19
+10195,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2000,1700,2018-07-20
+3341,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,2096,1966,2018-07-21
+10208,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2000,2000,2018-07-22
+12824,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1735,1801,1775,2018-07-23
+14130,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1830,2033,1975,2018-07-24
+7379,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1900,1850,2018-07-25
+12821,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1735,1800,1750,2018-07-26
+3633,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2051,2022,2018-07-27
+6167,Ahmednagar,Rahata,Wheat,Other,FAQ,1985,1991,1985,2018-07-28
+10212,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2000,2000,2018-07-29
+10225,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2050,2050,2018-07-30
+7381,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1900,1850,2018-07-31
+367,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1911,1925,1918,2018-08-01
+14148,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1850,2251,2025,2018-08-02
+3351,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,2175,2050,2018-08-03
+1224,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2100,2000,2018-08-04
+7117,Ahmednagar,Rahuri,Wheat,Other,FAQ,1550,1800,1675,2018-08-05
+9555,Ahmednagar,Sangamner,Wheat,Other,FAQ,1850,2250,2050,2018-08-06
+14115,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1825,1825,1825,2018-08-07
+340,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1900,2171,2035,2018-08-08
+5128,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1760,2400,1830,2018-08-10
+8579,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1852,2100,1976,2018-08-11
+10608,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2100,2100,2018-08-12
+9664,Ahmednagar,Sangamner,Wheat,Other,FAQ,2100,2100,2100,2018-08-13
+14319,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1975,2252,2165,2018-08-14
+5125,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1740,2400,1890,2018-08-15
+6077,Ahmednagar,Rahata,Wheat,Other,FAQ,1850,1965,1950,2018-08-16
+3474,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,2025,2014,2018-08-17
+7393,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2000,1900,2018-08-18
+10610,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2100,2100,2018-08-19
+1280,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2300,2100,2018-08-20
+10752,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2100,2050,2018-08-21
+5234,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1830,2400,1840,2018-08-22
+8502,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1786,2045,1915,2018-08-23
+7168,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1900,1750,2018-08-24
+3473,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,2020,2000,2018-08-25
+7504,Ahmednagar,Rahuri,Wheat,Other,FAQ,1875,1875,1875,2018-08-26
+6100,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,1974,1900,2018-08-27
+6081,Ahmednagar,Rahata,Wheat,Other,FAQ,1850,2072,1950,2018-08-28
+6099,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,1962,1937,2018-09-03
+5993,Ahmednagar,Rahata,Wheat,Other,FAQ,1735,1952,1950,2018-09-05
+7508,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,1900,1900,2018-09-06
+7513,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,1950,1925,2018-09-07
+5115,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1735,2400,2200,2018-09-08
+9549,Ahmednagar,Sangamner,Wheat,Other,FAQ,1850,2080,1965,2018-09-10
+8719,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1980,2300,2140,2018-09-11
+7378,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1900,1850,2018-09-12
+1855,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2018-09-14
+1264,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2200,2050,2018-09-15
+10381,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2150,1800,2018-09-16
+14126,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1825,2265,2000,2018-09-17
+8759,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2300,2150,2018-09-18
+5116,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1735,2400,2200,2018-09-19
+8622,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1900,2280,2100,2018-09-20
+9592,Ahmednagar,Sangamner,Wheat,Other,FAQ,1930,2244,2087,2018-09-21
+15075,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,1800,1800,2018-09-22
+392,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1921,2250,2095,2018-09-24
+14516,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2125,2261,2150,2018-09-25
+3613,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1990,2075,2025,2018-09-26
+3675,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2350,2127,2018-09-27
+388,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1921,2200,2000,2018-09-28
+6037,Ahmednagar,Rahata,Wheat,Other,FAQ,1800,2099,1975,2018-09-29
+10433,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1828,2200,2200,2018-09-30
+1221,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2100,2000,2018-10-01
+3612,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1990,2040,2015,2018-10-02
+9639,Ahmednagar,Sangamner,Wheat,Other,FAQ,2000,2276,2118,2018-10-03
+6105,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,2031,1975,2018-10-04
+412,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1941,1941,1941,2018-10-05
+5084,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1700,2200,1950,2018-10-06
+10394,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2200,2200,2018-10-07
+415,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1941,2050,2000,2018-10-08
+416,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1941,2100,2035,2018-10-09
+15174,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2018-10-10
+8566,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1850,2225,2037,2018-10-11
+9626,Ahmednagar,Sangamner,Wheat,Other,FAQ,1987,2332,2160,2018-10-12
+5185,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,2050,2018-10-13
+10369,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2100,2100,2018-10-14
+14360,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2265,2165,2018-10-15
+418,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1941,2400,2170,2018-10-16
+5097,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1700,2400,2021,2018-10-17
+14462,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2100,2125,2115,2018-10-18
+6240,Ahmednagar,Rahata,Wheat,Other,FAQ,2012,2045,2030,2018-10-19
+6106,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,2051,2000,2018-10-20
+7521,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2025,1965,2018-10-21
+453,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1955,1981,1968,2018-10-22
+9065,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2345,2400,2372,2018-10-23
+3579,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1950,2271,2160,2018-10-24
+8823,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2051,2376,2213,2018-10-25
+9590,Ahmednagar,Sangamner,Wheat,Other,FAQ,1924,2429,2177,2018-10-26
+10888,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2200,2200,2018-10-27
+7512,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,1900,1900,2018-10-28
+6159,Ahmednagar,Rahata,Wheat,Other,FAQ,1971,2200,2100,2018-10-29
+14170,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1860,2363,2200,2018-10-30
+455,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1961,1961,1961,2018-10-31
+451,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1951,2600,2300,2018-11-01
+9577,Ahmednagar,Sangamner,Wheat,Other,FAQ,1900,2270,2085,2018-11-02
+11585,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1600,1600,2018-11-03
+7644,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2125,2065,2018-11-04
+7220,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,2050,1875,2018-11-05
+5226,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2800,2300,2018-11-07
+13086,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2050,2050,2050,2018-11-08
+5212,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2450,2100,2018-11-09
+5232,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1816,2450,2300,2018-11-10
+6172,Ahmednagar,Rahata,Wheat,Other,FAQ,1991,2291,1991,2018-11-12
+10810,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2200,2200,2018-11-13
+458,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1961,2050,2000,2018-11-14
+463,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1975,1975,1975,2018-11-15
+7684,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2331,2165,2018-11-16
+2129,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2200,2100,2018-11-17
+7222,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,2300,2000,2018-11-18
+452,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1955,1955,1955,2018-11-19
+6113,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,2200,2100,2018-11-20
+460,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1971,1971,1971,2018-11-21
+13102,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2075,2075,2075,2018-11-22
+2916,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1441,2171,2035,2018-11-23
+5456,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2100,2800,2450,2018-11-24
+10891,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2250,2250,2018-11-25
+2145,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2200,2100,2018-11-26
+7626,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2000,2000,2018-11-27
+14380,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2360,2175,2018-11-28
+3533,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1901,2400,2180,2018-11-29
+7767,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2250,2175,2018-11-30
+7803,Ahmednagar,Rahuri,Wheat,Other,FAQ,2115,2200,2158,2018-12-01
+10836,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2350,2350,2018-12-02
+14543,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2200,2265,2220,2018-12-03
+15327,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2000,2000,2018-12-04
+7817,Ahmednagar,Rahuri,Wheat,Other,FAQ,2200,2225,2215,2018-12-05
+8658,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1919,2401,2160,2018-12-06
+476,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2000,2000,2018-12-07
+9124,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2400,2600,2500,2018-12-08
+7621,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2000,2000,2018-12-09
+15339,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2000,2000,2018-12-10
+7672,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2250,2165,2018-12-11
+9563,Ahmednagar,Sangamner,Wheat,Other,FAQ,1880,2420,2150,2018-12-12
+3560,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1941,2201,2051,2018-12-13
+14450,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2051,2385,2175,2018-12-14
+9153,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2411,2751,2581,2018-12-15
+10902,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2300,2300,2018-12-16
+14257,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2425,2275,2018-12-17
+11000,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2500,2300,2018-12-18
+5227,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2800,2300,2018-12-19
+3557,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1940,2071,2040,2018-12-20
+14648,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2350,2350,2350,2018-12-21
+14486,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2100,2400,2250,2018-12-22
+11134,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2450,2450,2018-12-23
+7755,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2100,2100,2018-12-24
+7590,Ahmednagar,Rahuri,Wheat,Other,FAQ,1925,1925,1925,2018-12-25
+9164,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2445,2700,2572,2018-12-26
+468,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1980,2100,2050,2018-12-27
+3492,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,2200,2100,2018-12-28
+8689,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1950,2350,2150,2018-12-29
+11142,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2500,2500,2018-12-30
+14219,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2200,2075,2018-12-31
+3586,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1951,2150,2050,2019-01-01
+14266,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2740,2500,2019-01-02
+15325,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2000,2000,2019-01-03
+7403,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2050,1925,2019-01-04
+1977,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2019-01-05
+10360,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2100,2100,2019-01-06
+5626,Ahmednagar,Rahata,Wheat,Other,FAQ,1400,2141,2070,2019-01-07
+3681,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2380,2211,2019-01-08
+5322,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2400,2100,2019-01-09
+12054,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2100,2100,2019-01-10
+10536,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2300,1900,2019-01-11
+10548,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2350,1900,2019-01-12
+10471,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,1900,1900,2019-01-13
+6039,Ahmednagar,Rahata,Wheat,Other,FAQ,1800,2111,2045,2019-01-14
+487,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2151,2075,2019-01-15
+8772,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2522,2261,2019-01-16
+14434,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2050,2200,2150,2019-01-17
+14285,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1950,1950,1950,2019-01-18
+10658,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2300,2300,2019-01-19
+10633,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2019-01-20
+9703,Ahmednagar,Sangamner,Wheat,Other,FAQ,2200,2341,2270,2019-01-21
+3365,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,2300,2100,2019-01-22
+3508,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,2311,2050,2019-01-23
+11993,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1950,2050,1950,2019-01-24
+10550,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2350,2350,2019-01-25
+5419,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2800,2633,2019-01-26
+10544,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2300,2300,2019-01-27
+10545,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2300,2300,2019-01-28
+10413,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2300,1800,2019-01-29
+14373,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2316,2200,2019-01-30
+14581,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2225,2225,2225,2019-01-31
+7494,Ahmednagar,Rahuri,Wheat,Other,FAQ,1850,2100,2000,2019-02-01
+15322,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2000,2000,2019-02-02
+4620,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2200,2200,2200,2019-02-03
+10979,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2300,2300,2019-02-04
+14537,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2155,2250,2180,2019-02-05
+7423,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2200,1850,2019-02-06
+9102,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2376,2376,2376,2019-02-07
+5345,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2500,2100,2019-02-08
+5346,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2500,2100,2019-02-09
+4633,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2200,2300,2250,2019-02-10
+14458,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2085,2314,2175,2019-02-11
+3239,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,2300,2250,2019-02-12
+14526,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2150,2350,2250,2019-02-13
+3538,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1911,2245,2000,2019-02-14
+7668,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2250,2100,2019-02-15
+3572,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1950,2131,2101,2019-02-16
+4643,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2300,2300,2300,2019-02-17
+10524,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2200,2200,2019-02-18
+9081,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2351,2351,2351,2019-02-19
+594,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2051,2351,2201,2019-02-20
+12215,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2200,2300,2300,2019-02-21
+9671,Ahmednagar,Sangamner,Wheat,Other,FAQ,2100,2300,2200,2019-02-22
+3309,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1781,2378,2201,2019-02-23
+12061,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2100,2100,2019-02-25
+8456,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1700,2000,1950,2019-02-26
+14214,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2165,2075,2019-02-27
+5293,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1960,2560,2430,2019-03-01
+3227,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,2091,1950,2019-03-02
+5074,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1600,2600,2400,2019-03-03
+15329,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2000,2000,2019-03-04
+3280,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1750,2057,2023,2019-03-05
+14447,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2051,2172,2100,2019-03-06
+11913,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1900,2000,1900,2019-03-07
+465,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1975,2081,2028,2019-03-08
+14352,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2211,2111,2019-03-09
+10333,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2000,2000,2019-03-10
+616,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2100,2100,2100,2019-03-11
+3278,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1750,2031,2020,2019-03-12
+15085,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,2000,1900,2019-03-13
+7298,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1950,1825,2019-03-14
+3286,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1750,2223,2100,2019-03-15
+11890,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1800,2000,2000,2019-03-16
+4540,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2000,2000,2019-03-17
+11898,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1850,1950,1850,2019-03-18
+10338,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2025,1800,2019-03-19
+7541,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2100,2015,2019-03-20
+5101,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1700,2800,2200,2019-03-21
+308,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1875,1875,1875,2019-03-22
+11969,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1900,2100,1900,2019-03-23
+4548,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2000,2000,2019-03-24
+6088,Ahmednagar,Rahata,Wheat,Other,FAQ,1855,1900,1881,2019-03-25
+14199,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2075,2000,2019-03-26
+4512,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,1950,2200,2000,2019-03-27
+8657,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1916,1936,1926,2019-03-28
+374,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1911,2100,2000,2019-03-29
+15136,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1850,1850,1850,2019-03-30
+7461,Ahmednagar,Rahuri,Wheat,Other,FAQ,1820,2000,1920,2019-03-31
+11878,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1800,2000,1800,2019-04-01
+7471,Ahmednagar,Rahuri,Wheat,Other,FAQ,1850,1900,1870,2019-04-02
+3388,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1812,2230,1950,2019-04-03
+7473,Ahmednagar,Rahuri,Wheat,Other,FAQ,1850,1900,1875,2019-04-04
+5474,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2200,2600,2500,2019-04-05
+1763,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1800,1700,2019-04-06
+10361,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2100,2100,2019-04-07
+14330,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2111,2075,2019-04-08
+8493,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1750,2121,1935,2019-04-09
+15171,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2019-04-10
+15120,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1850,1850,1850,2019-04-11
+8573,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1851,2100,1975,2019-04-12
+7167,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1875,1705,2019-04-13
+3862,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2201,2201,2201,2019-04-14
+10630,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2019-04-15
+10454,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1850,2100,2100,2019-04-16
+4565,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2100,2100,2019-04-17
+8905,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2158,2158,2158,2019-04-18
+3423,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1851,2222,2100,2019-04-19
+3454,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1881,2301,2220,2019-04-20
+7618,Ahmednagar,Rahuri,Wheat,Other,FAQ,1981,2025,2000,2019-04-21
+10568,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1925,2150,1925,2019-04-22
+15214,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2019-04-23
+4508,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,1950,2050,2000,2019-04-24
+3437,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1871,2287,2181,2019-04-25
+5382,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2600,2200,2019-04-26
+7536,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2100,2005,2019-04-27
+10625,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2200,2000,2019-04-28
+273,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1821,1821,1821,2019-04-29
+14117,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1825,2061,1975,2019-04-30
+7356,Ahmednagar,Rahuri,Wheat,Other,FAQ,1750,2100,1950,2019-05-01
+3409,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1850,2260,2200,2019-05-02
+5452,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2100,2800,2400,2019-05-03
+275,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1821,1880,1850,2019-05-04
+7597,Ahmednagar,Rahuri,Wheat,Other,FAQ,1950,2000,1985,2019-05-05
+14185,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1882,2150,2050,2019-05-06
+8585,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1875,1875,1875,2019-05-07
+9655,Ahmednagar,Sangamner,Wheat,Other,FAQ,2050,2211,2131,2019-05-08
+11985,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1900,2300,1900,2019-05-09
+10627,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2019-05-10
+12208,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2200,2300,2300,2019-05-11
+10367,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2100,2100,2019-05-12
+12115,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2100,2200,2100,2019-05-13
+14037,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2100,2000,2019-05-14
+10811,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2200,2200,2019-05-15
+7465,Ahmednagar,Rahuri,Wheat,Other,FAQ,1825,2100,1995,2019-05-16
+7628,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2050,2035,2019-05-17
+7754,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2100,2100,2019-05-18
+7758,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2150,2130,2019-05-19
+14033,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2075,1975,2019-05-20
+12095,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2250,2250,2019-05-21
+15132,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1850,1850,1850,2019-05-22
+14293,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1950,2231,2075,2019-05-23
+7303,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,2000,1895,2019-05-24
+8965,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2251,2251,2251,2019-05-25
+10456,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1850,2100,2100,2019-05-26
+10411,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2250,2250,2019-05-27
+10404,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2200,2200,2019-05-28
+8586,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1875,1950,1912,2019-05-29
+7414,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2100,1955,2019-05-30
+15081,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,1800,1800,2019-05-31
+7502,Ahmednagar,Rahuri,Wheat,Other,FAQ,1860,2000,1900,2019-06-01
+10498,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2150,1900,2019-06-02
+7395,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2000,1905,2019-06-03
+7418,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2100,1995,2019-06-04
+8593,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1885,2296,2090,2019-06-05
+12086,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2019-06-06
+8584,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1871,2471,2171,2019-06-07
+10415,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2300,2300,2019-06-08
+7510,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,1900,1900,2019-06-09
+14140,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1850,2125,2050,2019-06-10
+3465,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1899,2101,2051,2019-06-11
+14142,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1850,2132,2000,2019-06-12
+12090,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2019-06-13
+7486,Ahmednagar,Rahuri,Wheat,Other,FAQ,1850,2050,1965,2019-06-14
+427,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1950,2175,2062,2019-06-15
+10435,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1850,1850,1850,2019-06-16
+429,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1950,2250,2100,2019-06-17
+10389,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2200,1800,2019-06-18
+7507,Ahmednagar,Rahuri,Wheat,Other,FAQ,1875,2100,1995,2019-06-19
+7357,Ahmednagar,Rahuri,Wheat,Other,FAQ,1750,2100,1990,2019-06-20
+6069,Ahmednagar,Rahata,Wheat,Other,FAQ,1812,2026,1912,2019-06-21
+14314,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1975,1975,1975,2019-06-22
+10401,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2200,2200,2019-06-23
+365,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1911,1911,1911,2019-06-24
+12079,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2000,2019-06-25
+8527,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1800,2223,2012,2019-06-26
+12081,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2000,2019-06-27
+3316,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1796,1990,1899,2019-06-28
+2105,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1900,2200,2050,2019-06-29
+4557,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2000,2000,2019-06-30
+375,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1911,2150,2030,2019-07-01
+745,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2300,2600,2450,2019-07-02
+3436,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1871,2151,2080,2019-07-03
+7487,Ahmednagar,Rahuri,Wheat,Other,FAQ,1850,2050,1975,2019-07-04
+7600,Ahmednagar,Rahuri,Wheat,Other,FAQ,1950,2050,1985,2019-07-05
+5426,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2028,2800,2650,2019-07-06
+10317,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,1900,1800,2019-07-07
+15059,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,1800,1800,2019-07-08
+10339,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2050,1800,2019-07-09
+5428,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2050,2500,2175,2019-07-10
+13966,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1735,1900,1825,2019-07-11
+7488,Ahmednagar,Rahuri,Wheat,Other,FAQ,1850,2100,1915,2019-07-13
+10326,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2000,1800,2019-07-14
+382,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1921,1921,1921,2019-07-15
+454,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1961,1961,1961,2019-07-16
+7365,Ahmednagar,Rahuri,Wheat,Other,FAQ,1795,2000,1900,2019-07-17
+456,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1961,2001,1981,2019-07-18
+8670,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1935,2050,1992,2019-07-19
+2052,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2200,2000,2019-07-20
+7388,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1950,1895,2019-07-21
+15131,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1850,1850,1850,2019-07-22
+724,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2225,2500,2362,2019-07-23
+677,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2200,2350,2275,2019-07-24
+14215,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2171,2000,2019-07-25
+3625,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1999,2170,2131,2019-07-26
+14315,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1975,2051,2000,2019-07-27
+7514,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,1975,1945,2019-07-28
+10384,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2151,2151,2019-07-29
+3732,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2030,2151,2126,2019-07-30
+8741,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2152,2076,2019-07-31
+3642,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2113,2091,2019-08-01
+12085,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2019-08-02
+10481,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2050,1900,2019-08-03
+10505,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2150,2150,2019-08-04
+10571,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1950,2000,1950,2019-08-05
+10518,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2200,2200,2019-08-06
+8896,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2140,2191,2165,2019-08-07
+15335,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2000,2000,2019-08-08
+3780,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2070,2151,2130,2019-08-09
+3609,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1981,2075,2050,2019-08-10
+10363,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2100,2100,2019-08-11
+7522,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2050,1950,2019-08-12
+8699,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1951,2400,2175,2019-08-13
+14052,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2200,2000,2019-08-14
+5383,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2600,2250,2019-08-16
+7529,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2100,2000,2019-08-17
+10570,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1940,2125,2125,2019-08-18
+14281,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1925,2356,2075,2019-08-19
+8205,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1400,2300,2150,2019-08-20
+8567,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1850,2250,2025,2019-08-21
+14318,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1975,2225,2100,2019-08-22
+656,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2126,2205,2166,2019-08-23
+8852,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2100,2276,2188,2019-08-24
+3230,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,2106,2086,2019-08-25
+10595,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1975,2200,2200,2019-08-26
+10620,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2150,2150,2019-08-27
+7637,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2100,2050,2019-08-28
+3610,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1981,2176,2061,2019-08-29
+14338,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2175,2100,2019-08-31
+7721,Ahmednagar,Rahuri,Wheat,Other,FAQ,2050,2060,2056,2019-09-01
+7663,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2200,2115,2019-09-02
+8743,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2161,2080,2019-09-03
+3740,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2040,2213,2140,2019-09-04
+7642,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2100,2075,2019-09-05
+8611,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1900,2151,2025,2019-09-06
+2990,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1500,2075,2060,2019-09-07
+4600,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2100,2200,2150,2019-09-08
+10487,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2100,2100,2019-09-09
+8754,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2260,2130,2019-09-10
+10521,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2200,2200,2019-09-11
+8723,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1991,2265,2128,2019-09-12
+13987,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1751,2051,1950,2019-09-13
+10508,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2150,2150,2019-09-14
+10370,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2100,2100,2019-09-15
+484,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2131,2065,2019-09-16
+10574,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1950,2100,2100,2019-09-17
+10577,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1950,2150,2150,2019-09-18
+14455,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2075,2225,2150,2019-09-19
+568,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2041,2091,2066,2019-09-20
+3616,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1991,2041,2000,2019-09-21
+4604,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2100,2200,2150,2019-09-22
+9702,Ahmednagar,Sangamner,Wheat,Other,FAQ,2200,2200,2200,2019-09-23
+7641,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2100,2055,2019-09-24
+9706,Ahmednagar,Sangamner,Wheat,Other,FAQ,2201,2201,2201,2019-09-25
+8522,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1800,2175,1987,2019-09-26
+10511,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2150,2150,2019-09-27
+8707,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1975,2099,2037,2019-09-28
+7556,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2200,2000,2019-09-29
+14053,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2200,2050,2019-09-30
+8607,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1900,2051,1975,2019-10-01
+7726,Ahmednagar,Rahuri,Wheat,Other,FAQ,2050,2200,2100,2019-10-02
+7417,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2100,1995,2019-10-03
+8572,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1850,2326,2088,2019-10-04
+10382,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2150,2150,2019-10-05
+7720,Ahmednagar,Rahuri,Wheat,Other,FAQ,2050,2050,2050,2019-10-06
+9661,Ahmednagar,Sangamner,Wheat,Other,FAQ,2070,2291,2184,2019-10-07
+6243,Ahmednagar,Rahata,Wheat,Other,FAQ,2020,2065,2040,2019-10-08
+4567,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2150,2100,2019-10-09
+15175,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2019-10-10
+6247,Ahmednagar,Rahata,Wheat,Other,FAQ,2025,2121,2060,2019-10-11
+15184,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2019-10-12
+10489,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2100,2100,2019-10-13
+10804,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2150,2100,2019-10-14
+15195,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2019-10-15
+6285,Ahmednagar,Rahata,Wheat,Other,FAQ,2055,2099,2075,2019-10-16
+8835,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2075,2300,2187,2019-10-17
+7646,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2150,2055,2019-10-18
+6180,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2080,2050,2019-10-19
+10612,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2125,2000,2019-10-20
+7623,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2000,2000,2019-10-21
+12077,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2000,2019-10-22
+11957,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1900,2000,2000,2019-10-23
+14150,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1850,2275,2000,2019-10-24
+9637,Ahmednagar,Sangamner,Wheat,Other,FAQ,2000,2200,2100,2019-10-25
+10475,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2000,1900,2019-10-26
+12834,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1735,2100,1800,2019-10-27
+15227,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2019-10-28
+8704,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1971,2300,2135,2019-10-29
+14151,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1850,2311,2100,2019-10-30
+12084,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2000,2019-10-31
+8808,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2040,2125,2082,2019-11-01
+7552,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2125,2115,2019-11-02
+10414,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2300,2300,2019-11-03
+10623,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2200,2000,2019-11-04
+2027,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2200,2000,2019-11-05
+8713,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1976,2100,2038,2019-11-06
+14244,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2325,2125,2019-11-07
+3355,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,2211,2020,2019-11-08
+12071,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2000,2019-11-09
+10597,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1975,2300,2300,2019-11-10
+9620,Ahmednagar,Sangamner,Wheat,Other,FAQ,1966,2301,2134,2019-11-11
+570,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2041,2425,2233,2019-11-12
+8918,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2200,2200,2200,2019-11-13
+14251,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2371,2075,2019-11-14
+803,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,2400,2400,2019-11-15
+10655,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2300,2300,2019-11-16
+4583,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2050,2250,2100,2019-11-17
+12148,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2150,2250,2250,2019-11-18
+7082,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,2200,1800,2019-11-19
+8761,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2331,2165,2019-11-20
+15209,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2019-11-21
+14492,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2100,2475,2250,2019-11-22
+8582,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1855,2320,2100,2019-11-23
+7662,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2200,2105,2019-11-24
+12280,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2300,2300,2019-11-25
+8495,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1752,2300,2200,2019-11-26
+4613,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2100,2300,2150,2019-11-27
+14325,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2050,2025,2019-11-28
+3705,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2001,2199,2115,2019-11-29
+2084,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2400,2100,2019-11-30
+10639,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2300,2000,2019-12-01
+15272,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1950,1950,1950,2019-12-02
+15274,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1950,1950,1950,2019-12-03
+7537,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2100,2015,2019-12-04
+8752,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2251,2125,2019-12-05
+3360,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,2250,2000,2019-12-06
+10649,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2300,2300,2019-12-07
+7819,Ahmednagar,Rahuri,Wheat,Other,FAQ,2200,2250,2225,2019-12-08
+6310,Ahmednagar,Rahata,Wheat,Other,FAQ,2096,2210,2146,2019-12-09
+6151,Ahmednagar,Rahata,Wheat,Other,FAQ,1950,2200,2100,2019-12-10
+6305,Ahmednagar,Rahata,Wheat,Other,FAQ,2076,2271,2150,2019-12-11
+12858,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1750,1900,1850,2019-12-12
+723,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2225,2225,2225,2019-12-13
+5375,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2500,2450,2019-12-14
+7426,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2200,1945,2019-12-15
+9591,Ahmednagar,Sangamner,Wheat,Other,FAQ,1926,2276,2101,2019-12-16
+14240,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2300,2150,2019-12-17
+14081,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2325,2075,2019-12-18
+15292,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1950,1950,1950,2019-12-19
+8696,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1951,2323,2137,2019-12-20
+7661,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2200,2105,2019-12-21
+7647,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2150,2065,2019-12-22
+9537,Ahmednagar,Sangamner,Wheat,Other,FAQ,1801,2271,2036,2019-12-23
+7729,Ahmednagar,Rahuri,Wheat,Other,FAQ,2050,2200,2100,2019-12-24
+6217,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2300,2275,2019-12-25
+12861,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1750,2300,2100,2019-12-26
+14329,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2101,2050,2019-12-27
+8753,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2251,2125,2019-12-28
+4492,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,1850,1850,1850,2019-12-29
+15233,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2019-12-30
+7314,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,2200,1900,2019-12-31
+3505,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,2300,2100,2020-01-01
+585,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2050,2530,2290,2020-01-02
+9680,Ahmednagar,Sangamner,Wheat,Other,FAQ,2126,2350,2238,2020-01-03
+8955,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2230,2551,2390,2020-01-04
+10626,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2020-01-05
+289,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1825,2386,2105,2020-01-06
+12287,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2400,2300,2020-01-07
+15163,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2020-01-08
+1964,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,2400,2050,2020-01-09
+10680,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2400,2000,2020-01-10
+721,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2201,2780,2490,2020-01-11
+4617,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2150,2300,2200,2020-01-12
+7675,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2300,2125,2020-01-13
+14110,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1801,2454,2200,2020-01-14
+9080,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2351,2351,2351,2020-01-15
+15197,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2020-01-16
+6356,Ahmednagar,Rahata,Wheat,Other,FAQ,2130,2390,2151,2020-01-17
+10990,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2400,2400,2020-01-18
+4619,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2150,2450,2250,2020-01-19
+6155,Ahmednagar,Rahata,Wheat,Other,FAQ,1950,2400,2175,2020-01-20
+7656,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2200,2100,2020-01-21
+5406,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2700,2300,2020-01-22
+607,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2070,2452,2261,2020-01-23
+6122,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,2286,1900,2020-01-24
+6120,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,2261,1900,2020-01-25
+7738,Ahmednagar,Rahuri,Wheat,Other,FAQ,2050,2250,2165,2020-01-26
+7577,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2350,2025,2020-01-27
+14260,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2460,2145,2020-01-28
+15229,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2020-01-29
+3786,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2081,2148,2103,2020-01-30
+7568,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2300,2025,2020-01-31
+601,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2061,2700,2380,2020-02-01
+7619,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2000,2000,2020-02-02
+10589,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1950,2350,2350,2020-02-03
+15151,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2020-02-04
+12202,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2200,2300,2300,2020-02-05
+3582,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1950,2400,2200,2020-02-06
+10587,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1950,2350,1950,2020-02-07
+3497,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,2231,2155,2020-02-08
+10534,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2300,1900,2020-02-09
+7759,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2161,2135,2020-02-10
+12293,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2400,2300,2020-02-11
+3648,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2155,2080,2020-02-12
+8485,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1725,2261,2093,2020-02-13
+15287,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1950,1950,1950,2020-02-14
+8576,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1851,2300,2075,2020-02-15
+10455,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1850,2100,2100,2020-02-16
+7633,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2100,2025,2020-02-17
+6212,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2285,2000,2020-02-18
+7078,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,2100,1825,2020-02-19
+12232,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2200,2350,2350,2020-02-20
+6188,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2140,2000,2020-02-21
+15210,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,1900,1900,2020-02-22
+4580,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2250,2050,2020-02-23
+7627,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2025,2016,2020-02-24
+335,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1900,2131,2015,2020-02-25
+10352,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2100,1800,2020-02-26
+12193,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2200,2300,2200,2020-02-27
+10307,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1750,2100,2100,2020-02-28
+1794,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1800,1700,2020-02-29
+10298,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1750,2000,2000,2020-03-01
+7588,Ahmednagar,Rahuri,Wheat,Other,FAQ,1925,1925,1925,2020-03-02
+1973,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2020-03-03
+15277,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1950,1950,1950,2020-03-04
+6009,Ahmednagar,Rahata,Wheat,Other,FAQ,1750,2082,1896,2020-03-05
+13988,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1751,2075,1975,2020-03-06
+8496,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1771,2000,1885,2020-03-07
+7483,Ahmednagar,Rahuri,Wheat,Other,FAQ,1850,2021,1945,2020-03-08
+10160,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1650,2000,2000,2020-03-09
+5897,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1800,1750,2020-03-10
+10276,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2200,2200,2020-03-11
+2897,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1400,1804,1797,2020-03-12
+15067,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,1800,1800,2020-03-13
+1085,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,1900,1800,2020-03-14
+10081,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1850,1850,2020-03-15
+13989,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1751,2171,1975,2020-03-16
+9974,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1550,1675,1675,2020-03-17
+13851,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1625,2100,2000,2020-03-18
+11632,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2020-03-19
+5983,Ahmednagar,Rahata,Wheat,Other,FAQ,1711,1800,1750,2020-03-20
+13897,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1700,1700,2020-03-21
+5892,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1800,1700,2020-03-23
+5907,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1835,1800,2020-03-26
+5906,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1825,1800,2020-03-27
+6001,Ahmednagar,Rahata,Wheat,Other,FAQ,1750,1900,1800,2020-03-28
+5751,Ahmednagar,Rahata,Wheat,Other,FAQ,1600,1850,1750,2020-03-30
+3095,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1800,1750,2020-03-31
+13932,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1925,1900,2020-04-01
+3103,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1830,1775,2020-04-02
+13986,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1751,2050,1925,2020-04-03
+13916,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1850,1750,2020-04-04
+10469,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,1900,1900,2020-04-05
+2970,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1500,1700,1600,2020-04-06
+3160,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1691,1851,1789,2020-04-07
+13906,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1800,1750,2020-04-15
+11630,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2020-04-18
+10176,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,1850,1850,2020-04-19
+7164,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1800,1725,2020-04-20
+7056,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1725,1665,2020-04-21
+7203,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1775,1720,2020-04-22
+7261,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1775,1750,2020-04-23
+7150,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1750,1675,2020-04-24
+7170,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1950,1795,2020-04-25
+7330,Ahmednagar,Rahuri,Wheat,Other,FAQ,1750,1775,1765,2020-04-26
+7225,Ahmednagar,Rahuri,Wheat,Other,FAQ,1660,1750,1705,2020-04-27
+7385,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1950,1865,2020-04-28
+7205,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1800,1705,2020-04-29
+7372,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1800,1800,2020-04-30
+7064,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1800,1695,2020-05-01
+7180,Ahmednagar,Rahuri,Wheat,Other,FAQ,1635,1771,1703,2020-05-02
+7169,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1900,1790,2020-05-03
+7366,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1800,1800,2020-05-04
+8520,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1800,2115,2057,2020-05-05
+10005,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1700,1700,2020-05-06
+11741,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-05-07
+10006,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1700,1700,2020-05-08
+11745,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-05-09
+12906,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1850,2100,1900,2020-05-10
+13933,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1950,1800,2020-05-11
+7362,Ahmednagar,Rahuri,Wheat,Other,FAQ,1761,2200,1950,2020-05-12
+13900,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1750,1725,2020-05-13
+13915,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1825,1825,2020-05-14
+11755,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-05-15
+205,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1750,2025,1887,2020-05-16
+7367,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1800,1800,2020-05-17
+11760,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-05-18
+11762,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-05-19
+5987,Ahmednagar,Rahata,Wheat,Other,FAQ,1715,1850,1750,2020-05-20
+11494,Ahmednagar,Shevgaon,Wheat,Other,FAQ,1650,1700,1650,2020-05-21
+13929,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1900,1800,2020-05-22
+9004,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2300,2300,2300,2020-05-23
+12921,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1875,2200,2000,2020-05-24
+7321,Ahmednagar,Rahuri,Wheat,Other,FAQ,1711,1775,1750,2020-05-25
+7292,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1900,1800,2020-05-26
+7338,Ahmednagar,Rahuri,Wheat,Other,FAQ,1750,1900,1795,2020-05-27
+3382,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1808,1808,1808,2020-05-28
+9388,Ahmednagar,Sangamner,Wheat,Other,FAQ,1500,1785,1643,2020-05-29
+13901,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1750,1725,2020-05-30
+12881,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,1900,1875,2020-05-31
+1968,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2020-06-01
+7249,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1750,1735,2020-06-02
+4509,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,1950,2100,2000,2020-06-03
+1225,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2100,2000,2020-06-04
+3078,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1649,2027,1951,2020-06-05
+10128,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1650,1700,1650,2020-06-06
+7251,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1750,1735,2020-06-07
+12905,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1850,2100,1900,2020-06-08
+14993,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1700,1700,1700,2020-06-09
+3138,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1676,1982,1801,2020-06-10
+5883,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1775,1730,2020-06-11
+10629,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2020-06-12
+10198,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2000,2000,2020-06-13
+12915,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1851,2100,1900,2020-06-14
+10162,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1650,2000,2000,2020-06-15
+8484,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1725,2000,1950,2020-06-16
+13938,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,2000,1850,2020-06-17
+10164,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1650,2000,2000,2020-06-18
+7254,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1750,1735,2020-06-19
+7273,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1800,1755,2020-06-20
+7237,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1700,1700,2020-06-21
+5871,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1740,1725,2020-06-22
+11934,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1900,2000,1900,2020-06-23
+9421,Ahmednagar,Sangamner,Wheat,Other,FAQ,1601,1601,1601,2020-06-24
+5803,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1750,1700,2020-06-25
+8445,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1700,1712,1706,2020-06-26
+10110,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,2000,2000,2020-06-27
+7371,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,1800,1800,2020-06-28
+10111,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,2000,2000,2020-06-29
+5981,Ahmednagar,Rahata,Wheat,Other,FAQ,1711,1800,1711,2020-06-30
+8174,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1375,1700,1537,2020-07-01
+12884,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,2000,1900,2020-07-02
+10100,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,2000,1900,2020-07-03
+7204,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1800,1705,2020-07-04
+12891,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,2051,1950,2020-07-05
+12894,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,2100,1950,2020-07-06
+204,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1750,2000,1875,2020-07-07
+3261,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1750,1880,1810,2020-07-08
+4496,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,1900,2000,1950,2020-07-09
+13931,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1925,1850,2020-07-10
+10479,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2000,2000,2020-07-11
+12898,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1850,1850,1850,2020-07-12
+7207,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1800,1725,2020-07-13
+8177,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1380,1900,1900,2020-07-14
+5399,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2600,2450,2020-07-15
+9988,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1575,2100,1900,2020-07-16
+8480,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1715,2032,2032,2020-07-17
+13927,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,1900,1800,2020-07-18
+12887,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,2000,1900,2020-07-19
+12895,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,2100,1950,2020-07-20
+2000,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2020-07-21
+5731,Ahmednagar,Rahata,Wheat,Other,FAQ,1600,1750,1600,2020-07-22
+10472,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,1900,1900,2020-07-23
+3054,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1600,1746,1651,2020-07-24
+7256,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1750,1735,2020-07-25
+12918,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1875,1875,1875,2020-07-26
+7177,Ahmednagar,Rahuri,Wheat,Other,FAQ,1625,1725,1675,2020-07-27
+9992,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1600,1600,2020-07-28
+5240,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1850,2000,1900,2020-07-29
+12902,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1850,1950,1875,2020-07-30
+5720,Ahmednagar,Rahata,Wheat,Other,FAQ,1600,1700,1600,2020-07-31
+7181,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1650,1650,2020-08-01
+12920,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1875,2100,1950,2020-08-02
+12893,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,2100,1950,2020-08-03
+14947,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,1650,1650,2020-08-04
+3068,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1601,1790,1700,2020-08-05
+13854,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1650,1675,1665,2020-08-06
+8359,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1600,2000,1925,2020-08-07
+8360,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1600,2000,1950,2020-08-08
+12885,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,2000,1900,2020-08-09
+13855,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1650,1700,1675,2020-08-10
+14953,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,1650,1650,2020-08-11
+7234,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1700,1700,2020-08-12
+9991,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1600,1600,2020-08-13
+5307,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2300,2100,2020-08-14
+5236,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1840,2500,2350,2020-08-15
+12886,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1845,2000,1900,2020-08-16
+13845,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1625,1700,1685,2020-08-17
+7144,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1700,1665,2020-08-19
+14961,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,1650,1650,2020-08-20
+8379,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1611,1800,1700,2020-08-21
+5329,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2020-08-22
+14965,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,1650,1650,2020-08-24
+7128,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1631,1625,2020-08-25
+13861,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1650,1775,1700,2020-08-26
+1272,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2200,2050,2020-08-27
+5615,Ahmednagar,Rahata,Wheat,Other,FAQ,1400,1600,1400,2020-08-28
+9956,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1850,1500,2020-08-29
+9393,Ahmednagar,Sangamner,Wheat,Other,FAQ,1509,1560,1534,2020-08-31
+3051,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1600,1736,1638,2020-09-01
+15052,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,1800,1800,2020-09-02
+13805,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1600,1700,1650,2020-09-03
+9383,Ahmednagar,Sangamner,Wheat,Other,FAQ,1466,1475,1470,2020-09-04
+5205,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2400,2000,2020-09-05
+7102,Ahmednagar,Rahuri,Wheat,Other,FAQ,1550,1600,1575,2020-09-06
+9375,Ahmednagar,Sangamner,Wheat,Other,FAQ,1425,1550,1480,2020-09-07
+13757,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1500,1750,1700,2020-09-08
+11746,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-09-09
+981,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1200,1500,1350,2020-09-10
+9380,Ahmednagar,Sangamner,Wheat,Other,FAQ,1451,1595,1523,2020-09-11
+3042,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1595,1615,1600,2020-09-12
+11662,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1700,2020-09-14
+8307,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1550,1550,1550,2020-09-15
+11758,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-09-16
+5659,Ahmednagar,Rahata,Wheat,Other,FAQ,1500,1650,1525,2020-09-17
+7030,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1550,1535,2020-09-18
+7024,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1500,1500,2020-09-19
+6980,Ahmednagar,Rahuri,Wheat,Other,FAQ,1400,1525,1465,2020-09-20
+7025,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1505,1500,2020-09-21
+5628,Ahmednagar,Rahata,Wheat,Other,FAQ,1450,1500,1450,2020-09-22
+7009,Ahmednagar,Rahuri,Wheat,Other,FAQ,1425,1505,1465,2020-09-23
+1611,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1200,2200,1700,2020-09-24
+13798,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1575,1700,1650,2020-09-25
+11900,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1850,2000,1850,2020-09-26
+6979,Ahmednagar,Rahuri,Wheat,Other,FAQ,1400,1525,1435,2020-09-27
+9863,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1400,1700,1400,2020-09-28
+14879,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1550,1550,1550,2020-09-29
+7020,Ahmednagar,Rahuri,Wheat,Other,FAQ,1470,1500,1485,2020-09-30
+12901,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1850,1925,1900,2020-10-01
+2923,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1450,1606,1550,2020-10-02
+14946,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,1650,1650,2020-10-03
+13054,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1950,1950,1950,2020-10-04
+11738,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-10-05
+8175,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1375,1851,1500,2020-10-06
+9374,Ahmednagar,Sangamner,Wheat,Other,FAQ,1425,1495,1460,2020-10-07
+13656,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1400,1651,1600,2020-10-08
+13708,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1450,1650,1600,2020-10-09
+11748,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-10-10
+13641,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1400,1550,1500,2020-10-12
+2872,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1350,1591,1500,2020-10-13
+9851,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1400,1600,1400,2020-10-14
+14870,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1550,1550,1550,2020-10-22
+6982,Ahmednagar,Rahuri,Wheat,Other,FAQ,1400,1550,1475,2020-10-23
+7031,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1560,1535,2020-10-24
+12926,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1900,1900,1900,2020-10-25
+6993,Ahmednagar,Rahuri,Wheat,Other,FAQ,1400,1600,1505,2020-10-26
+14971,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,1650,1650,2020-10-27
+7015,Ahmednagar,Rahuri,Wheat,Other,FAQ,1450,1600,1505,2020-10-28
+7126,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1600,1600,2020-10-29
+5623,Ahmednagar,Rahata,Wheat,Other,FAQ,1400,1775,1650,2020-10-30
+5184,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,2000,2020-10-31
+10018,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1751,1600,2020-11-01
+11596,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2020-11-02
+11599,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2020-11-03
+8188,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1400,1685,1542,2020-11-04
+2890,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1400,1700,1636,2020-11-05
+11605,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2020-11-06
+5617,Ahmednagar,Rahata,Wheat,Other,FAQ,1400,1612,1500,2020-11-07
+12874,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1840,2200,2000,2020-11-08
+13716,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1450,1800,1650,2020-11-09
+9923,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1700,1500,2020-11-10
+6990,Ahmednagar,Rahuri,Wheat,Other,FAQ,1400,1600,1505,2020-11-11
+6991,Ahmednagar,Rahuri,Wheat,Other,FAQ,1400,1600,1505,2020-11-12
+9970,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1525,1750,1525,2020-11-13
+14861,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1550,1550,1550,2020-11-16
+8165,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1350,1601,1475,2020-11-17
+11761,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2020-11-18
+14866,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1550,1550,1550,2020-11-19
+7036,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1600,1555,2020-11-20
+5618,Ahmednagar,Rahata,Wheat,Other,FAQ,1400,1625,1600,2020-11-21
+9928,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1700,1500,2020-11-22
+9978,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1550,1751,1550,2020-11-23
+9969,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1525,1650,1525,2020-11-24
+9435,Ahmednagar,Sangamner,Wheat,Other,FAQ,1625,1825,1727,2020-11-25
+14970,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,1650,1650,2020-11-26
+9439,Ahmednagar,Sangamner,Wheat,Other,FAQ,1640,1800,1720,2020-11-27
+172,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1701,1701,1701,2020-11-28
+4578,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2200,2100,2020-11-29
+9397,Ahmednagar,Sangamner,Wheat,Other,FAQ,1526,1753,1640,2020-11-30
+2925,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1450,1614,1584,2020-12-01
+11488,Ahmednagar,Shevgaon,Wheat,Other,FAQ,1500,1600,1500,2020-12-02
+8120,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1200,1650,1400,2020-12-03
+5662,Ahmednagar,Rahata,Wheat,Other,FAQ,1500,1682,1600,2020-12-04
+9968,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1501,1551,1501,2020-12-05
+9921,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1700,1500,2020-12-06
+11607,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2020-12-07
+14848,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1550,1550,1550,2020-12-08
+2850,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1000,1000,1000,2020-12-09
+2908,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1428,1680,1579,2020-12-10
+20,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1551,1625,1588,2020-12-11
+8145,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1300,1752,1526,2020-12-12
+13036,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2100,2000,2020-12-13
+2919,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1450,1579,1541,2020-12-14
+2885,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1400,1575,1549,2020-12-15
+5144,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,1950,2020-12-16
+11627,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2020-12-17
+8118,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1200,1600,1400,2020-12-18
+2878,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1400,1518,1505,2020-12-19
+4499,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,1925,1925,1925,2020-12-20
+13621,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1350,1700,1600,2020-12-21
+1616,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1300,1600,1450,2020-12-22
+11583,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1550,1700,1550,2020-12-23
+5650,Ahmednagar,Rahata,Wheat,Other,FAQ,1500,1573,1541,2020-12-24
+7106,Ahmednagar,Rahuri,Wheat,Other,FAQ,1550,1625,1590,2020-12-25
+5644,Ahmednagar,Rahata,Wheat,Other,FAQ,1500,1550,1525,2020-12-26
+4524,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,1975,2100,2050,2020-12-27
+194,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1750,1750,1750,2020-12-28
+2882,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1400,1543,1511,2020-12-29
+2910,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1437,1600,1529,2020-12-30
+5689,Ahmednagar,Rahata,Wheat,Other,FAQ,1545,1566,1550,2020-12-31
+5680,Ahmednagar,Rahata,Wheat,Other,FAQ,1525,1601,1545,2021-01-01
+5034,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1500,2200,1900,2021-01-02
+9880,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1450,1551,1551,2021-01-03
+5692,Ahmednagar,Rahata,Wheat,Other,FAQ,1550,1622,1610,2021-01-04
+11522,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1500,1600,1500,2021-01-05
+6989,Ahmednagar,Rahuri,Wheat,Other,FAQ,1400,1600,1505,2021-01-07
+7107,Ahmednagar,Rahuri,Wheat,Other,FAQ,1550,1650,1605,2021-01-08
+7143,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1700,1655,2021-01-09
+7040,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1600,1565,2021-01-10
+13430,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2100,2000,2021-01-11
+7133,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1650,1630,2021-01-12
+7053,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1700,1605,2021-01-13
+13426,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2050,2000,2021-01-14
+9460,Ahmednagar,Sangamner,Wheat,Other,FAQ,1678,1854,1766,2021-01-15
+2979,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1500,1789,1751,2021-01-16
+9987,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1575,1600,1600,2021-01-17
+13711,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1450,1750,1500,2021-01-18
+13658,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1400,1700,1450,2021-01-19
+3301,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1775,1878,1845,2021-01-20
+1652,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1500,1700,1600,2021-01-21
+13709,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1450,1700,1575,2021-01-22
+5288,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1950,2200,2000,2021-01-23
+13030,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2050,2000,2021-01-24
+9401,Ahmednagar,Sangamner,Wheat,Other,FAQ,1535,1812,1674,2021-01-25
+14883,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1550,1600,1550,2021-01-27
+187,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1725,1850,1787,2021-01-28
+5780,Ahmednagar,Rahata,Wheat,Other,FAQ,1641,1724,1685,2021-01-29
+5289,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1950,2300,2000,2021-01-30
+4559,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2000,2000,2021-01-31
+5726,Ahmednagar,Rahata,Wheat,Other,FAQ,1600,1719,1660,2021-02-01
+9896,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1600,1500,2021-02-02
+9897,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1600,1500,2021-02-03
+13005,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2025,2000,2021-02-04
+5695,Ahmednagar,Rahata,Wheat,Other,FAQ,1550,1680,1615,2021-02-05
+5249,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1850,2200,2050,2021-02-06
+4585,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2100,2100,2100,2021-02-07
+12946,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2000,1985,2021-02-08
+11524,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1500,1600,1500,2021-02-09
+9459,Ahmednagar,Sangamner,Wheat,Other,FAQ,1678,1780,1729,2021-02-10
+13707,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1450,1650,1500,2021-02-11
+8116,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1200,1567,1383,2021-02-12
+11528,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1500,1600,1500,2021-02-13
+9914,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1675,1500,2021-02-14
+5694,Ahmednagar,Rahata,Wheat,Other,FAQ,1550,1671,1620,2021-02-15
+5761,Ahmednagar,Rahata,Wheat,Other,FAQ,1602,1680,1650,2021-02-16
+8210,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1401,1819,1610,2021-02-17
+13027,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2050,2000,2021-02-18
+9470,Ahmednagar,Sangamner,Wheat,Other,FAQ,1699,1792,1745,2021-02-19
+13694,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1400,1925,1700,2021-02-20
+9868,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1400,1750,1750,2021-02-21
+11540,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1500,1600,1500,2021-02-22
+13705,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1450,1550,1500,2021-02-23
+9929,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1700,1500,2021-02-24
+2115,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2100,2050,2021-02-25
+9483,Ahmednagar,Sangamner,Wheat,Other,FAQ,1701,2311,2006,2021-02-26
+2146,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2200,2100,2021-02-27
+13033,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2050,2000,2021-02-28
+12941,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2000,1985,2021-03-01
+11568,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1500,1800,1500,2021-03-02
+13608,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1300,1700,1600,2021-03-03
+13620,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1350,1700,1550,2021-03-04
+118,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,1725,1712,2021-03-05
+174,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1711,1711,1711,2021-03-06
+7070,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1900,1700,2021-03-07
+13679,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1400,1775,1600,2021-03-08
+13675,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1400,1750,1600,2021-03-09
+7267,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1800,1750,2021-03-10
+5854,Ahmednagar,Rahata,Wheat,Other,FAQ,1681,1730,1705,2021-03-11
+8231,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1451,1675,1563,2021-03-12
+7154,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1800,1700,2021-03-13
+13008,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2025,2000,2021-03-14
+1167,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2000,1900,2021-03-15
+7166,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1850,1725,2021-03-16
+7148,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1750,1675,2021-03-17
+7059,Ahmednagar,Rahuri,Wheat,Other,FAQ,1500,1760,1630,2021-03-18
+7138,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1700,1650,2021-03-19
+1999,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2021-03-20
+12999,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2020,2000,2021-03-21
+13029,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2050,2000,2021-03-22
+5765,Ahmednagar,Rahata,Wheat,Other,FAQ,1620,1841,1750,2021-03-23
+3024,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1550,1775,1675,2021-03-24
+5710,Ahmednagar,Rahata,Wheat,Other,FAQ,1599,1746,1675,2021-03-25
+143,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,1900,1800,2021-03-26
+2016,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2021-03-27
+13035,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2050,2000,2021-03-28
+13003,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2020,2000,2021-03-29
+7142,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1700,1650,2021-03-30
+11718,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1850,1850,2021-03-31
+11714,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1850,1850,2021-04-01
+7152,Ahmednagar,Rahuri,Wheat,Other,FAQ,1600,1800,1700,2021-04-02
+147,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,2000,1850,2021-04-03
+4561,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2100,2050,2021-04-04
+9500,Ahmednagar,Sangamner,Wheat,Other,FAQ,1734,1836,1785,2021-04-05
+8195,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1400,1781,1600,2021-04-06
+4570,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2000,2200,2100,2021-04-07
+149,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,2000,1850,2021-04-08
+11823,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1900,1900,2021-04-09
+7217,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1900,1775,2021-04-12
+8290,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1501,1651,1575,2021-04-13
+8320,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1550,1900,1630,2021-04-14
+11721,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1900,1900,2021-04-15
+1180,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2100,1950,2021-04-16
+7343,Ahmednagar,Rahuri,Wheat,Other,FAQ,1750,1900,1825,2021-04-17
+3189,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,1815,1775,2021-04-19
+11821,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1900,1700,2021-04-20
+124,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,1750,1725,2021-04-21
+5997,Ahmednagar,Rahata,Wheat,Other,FAQ,1750,1800,1775,2021-04-22
+11826,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1900,1900,2021-04-23
+3070,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1612,1790,1750,2021-04-26
+3126,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1660,1761,1730,2021-04-27
+10095,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1900,1900,2021-04-28
+10097,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1950,1600,2021-04-29
+127,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,1750,1725,2021-04-30
+5024,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1500,2000,1800,2021-05-01
+11836,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1800,1900,1800,2021-05-03
+11728,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1650,1800,1650,2021-05-04
+5135,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2100,2000,2021-05-05
+3217,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,2000,1738,2021-05-06
+3087,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1770,1749,2021-05-07
+2975,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1500,1765,1756,2021-05-08
+2974,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1500,1765,1755,2021-05-10
+5824,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1886,1775,2021-05-11
+5789,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1700,1675,2021-05-12
+2980,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1500,1799,1716,2021-05-13
+5161,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,2000,2021-05-14
+2895,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1400,1790,1768,2021-05-15
+3093,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1790,1770,2021-05-17
+10089,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1900,1600,2021-05-18
+3182,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,1780,1745,2021-06-01
+10084,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1900,1600,2021-06-02
+10085,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1900,1600,2021-06-03
+1759,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1800,1700,2021-06-04
+148,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1700,2000,1850,2021-06-05
+1192,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2250,2050,2021-06-07
+3075,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1630,1866,1764,2021-06-08
+13398,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2020,2000,2021-06-09
+13399,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2020,2000,2021-06-10
+1984,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2021-06-11
+9940,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1800,1500,2021-06-12
+5207,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2400,2000,2021-06-13
+3066,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1601,1774,1708,2021-06-14
+9963,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1950,1500,2021-06-15
+5072,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1600,2400,2000,2021-06-16
+13791,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1550,1771,1625,2021-06-17
+8336,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1598,1651,1624,2021-06-18
+11631,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2021-06-19
+7184,Ahmednagar,Rahuri,Wheat,Other,FAQ,1650,1700,1675,2021-06-20
+7108,Ahmednagar,Rahuri,Wheat,Other,FAQ,1550,1675,1612,2021-06-21
+13362,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-06-22
+9946,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1500,1800,1500,2021-06-23
+13409,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2020,2000,2021-06-24
+8238,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1475,1550,1500,2021-06-25
+10056,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1800,1800,2021-06-26
+7227,Ahmednagar,Rahuri,Wheat,Other,FAQ,1675,1750,1712,2021-06-27
+3031,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1550,1850,1729,2021-06-28
+9983,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1550,1850,1850,2021-06-29
+9446,Ahmednagar,Sangamner,Wheat,Other,FAQ,1651,1825,1738,2021-06-30
+14789,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1500,1600,1550,2021-07-01
+1161,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2000,1900,2021-07-02
+3049,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1600,1730,1700,2021-07-03
+11603,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1600,2021-07-05
+13391,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2020,2000,2021-07-06
+60,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1625,1950,1787,2021-07-07
+3135,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1675,1891,1725,2021-07-08
+1082,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,1900,1800,2021-07-09
+3052,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1600,1739,1725,2021-07-10
+14802,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1500,1650,1575,2021-07-12
+5798,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1730,1711,2021-07-13
+10038,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1800,1800,2021-07-14
+1044,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1600,1900,1750,2021-07-15
+11690,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1800,1600,2021-07-16
+3148,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1681,1758,1741,2021-07-17
+1783,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1800,1700,2021-07-19
+5828,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1950,1800,2021-07-20
+5268,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1900,2200,2000,2021-07-21
+41,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1600,1790,1695,2021-07-22
+91,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1671,1919,1795,2021-07-23
+8434,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1680,1731,1705,2021-07-24
+13411,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2020,2000,2021-07-26
+8352,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1600,1850,1725,2021-07-27
+3150,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1684,1825,1700,2021-07-28
+1030,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1600,1800,1700,2021-07-29
+13273,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1980,2021-07-30
+8334,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1591,1750,1670,2021-07-31
+1636,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1400,1800,1600,2021-08-02
+13735,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1500,1700,1600,2021-08-03
+13736,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1500,1700,1600,2021-08-04
+6976,Ahmednagar,Rahuri,Wheat,Other,FAQ,1350,1850,1600,2021-08-05
+1635,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1400,1700,1550,2021-08-06
+3016,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1550,1725,1699,2021-08-07
+5843,Ahmednagar,Rahata,Wheat,Other,FAQ,1675,1775,1677,2021-08-09
+1014,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1600,1800,1700,2021-08-10
+5728,Ahmednagar,Rahata,Wheat,Other,FAQ,1600,1730,1675,2021-08-11
+10008,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1700,1700,2021-08-12
+1001,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1600,1700,1650,2021-08-13
+8261,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1500,1701,1600,2021-08-14
+3057,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1600,1780,1740,2021-08-16
+1625,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1400,1600,1500,2021-08-17
+8383,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1625,1751,1688,2021-08-18
+12997,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2020,2000,2021-08-19
+23,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1561,1675,1618,2021-08-20
+1784,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1800,1700,2021-08-21
+13361,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-08-22
+12972,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2000,1990,2021-08-23
+5749,Ahmednagar,Rahata,Wheat,Other,FAQ,1600,1820,1700,2021-08-24
+10053,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1600,1800,1800,2021-08-25
+12940,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2000,1980,2021-08-26
+5180,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,2000,2021-08-27
+106,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1681,1800,1740,2021-08-28
+9506,Ahmednagar,Sangamner,Wheat,Other,FAQ,1750,2211,1986,2021-08-30
+13381,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-08-31
+13307,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-09-01
+10185,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,1950,1950,2021-09-02
+11510,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1500,1500,1500,2021-09-03
+13815,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1600,1750,1675,2021-09-04
+13320,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-09-05
+5819,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1811,1720,2021-09-06
+3213,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,1981,1829,2021-09-07
+8401,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1650,1850,1750,2021-09-08
+40,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1600,1761,1680,2021-09-09
+5914,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1896,1850,2021-09-10
+11685,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1800,1600,2021-09-11
+13331,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-09-12
+7278,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,1850,1775,2021-09-13
+1702,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2021-09-14
+6032,Ahmednagar,Rahata,Wheat,Other,FAQ,1800,2000,1900,2021-09-15
+1650,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1500,1700,1600,2021-09-16
+10179,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,1900,1900,2021-09-17
+8375,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1601,1875,1738,2021-09-18
+13356,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-09-19
+10180,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,1900,1900,2021-09-20
+1627,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1400,1600,1500,2021-09-21
+5088,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1700,2200,2000,2021-09-22
+12974,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2000,1990,2021-09-23
+10295,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1750,1950,1750,2021-09-24
+1735,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2021-09-25
+13371,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-09-26
+5827,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1945,1840,2021-09-27
+14794,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1500,1600,1550,2021-09-28
+9503,Ahmednagar,Sangamner,Wheat,Other,FAQ,1749,2211,1980,2021-09-29
+13380,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-09-30
+5822,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1850,1750,2021-10-01
+5142,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,1800,2021-10-02
+10147,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1650,1900,1650,2021-10-03
+9527,Ahmednagar,Sangamner,Wheat,Other,FAQ,1800,1800,1800,2021-10-04
+11650,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1700,2021-10-05
+102,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1675,2011,1843,2021-10-06
+95,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1675,1700,1687,2021-10-07
+1769,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1800,1700,2021-10-08
+7326,Ahmednagar,Rahuri,Wheat,Other,FAQ,1725,1850,1800,2021-10-09
+13283,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1985,2021-10-10
+11657,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1600,1700,1700,2021-10-11
+1647,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1500,1700,1600,2021-10-12
+13335,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-10-13
+11530,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1500,1600,1500,2021-10-14
+10143,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1650,1850,1850,2021-10-15
+3,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1450,1800,1625,2021-10-16
+13349,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-10-17
+3109,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1874,1771,2021-10-18
+14821,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1500,1750,1600,2021-10-19
+5821,Ahmednagar,Rahata,Wheat,Other,FAQ,1650,1841,1750,2021-10-20
+1023,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1600,1800,1700,2021-10-21
+11731,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1650,1850,1650,2021-10-22
+8404,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1650,1951,1750,2021-10-23
+10188,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,1950,1950,2021-10-24
+12950,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2000,1985,2021-10-25
+5965,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,2177,1940,2021-10-26
+11778,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1700,2021-10-27
+1745,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2021-10-28
+1054,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1600,1900,1750,2021-10-29
+8365,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1600,2141,1870,2021-10-30
+13382,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-10-31
+7008,Ahmednagar,Rahuri,Wheat,Other,FAQ,1400,1900,1650,2021-11-01
+14891,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1550,1750,1650,2021-11-02
+5146,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,2000,2021-11-03
+5674,Ahmednagar,Rahata,Wheat,Other,FAQ,1500,1891,1700,2021-11-05
+1077,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,1900,1800,2021-11-06
+6974,Ahmednagar,Rahuri,Wheat,Other,FAQ,1300,1950,1625,2021-11-07
+3324,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,1900,1864,2021-11-08
+3200,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,1867,1858,2021-11-09
+9371,Ahmednagar,Sangamner,Wheat,Other,FAQ,1400,2050,1725,2021-11-10
+996,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1500,1900,1700,2021-11-11
+5047,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1600,2000,1800,2021-11-12
+11798,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1800,2021-11-13
+10200,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2000,2000,2021-11-14
+3326,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,1921,1889,2021-11-15
+13345,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-11-16
+10203,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2000,2000,2021-11-17
+3441,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1875,2010,1940,2021-11-18
+5926,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1920,1850,2021-11-19
+8437,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1681,2000,1777,2021-11-20
+291,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1831,2150,1990,2021-11-22
+1725,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2021-11-23
+10273,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2175,2175,2021-11-24
+13368,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-11-25
+13864,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1650,1825,1750,2021-11-26
+1052,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1600,1900,1750,2021-11-27
+10223,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2050,2050,2021-11-28
+6046,Ahmednagar,Rahata,Wheat,Other,FAQ,1800,2151,1925,2021-11-29
+3208,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,1900,1880,2021-11-30
+13760,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1500,1800,1700,2021-12-01
+13310,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-12-02
+8400,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1650,1801,1725,2021-12-03
+3288,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1750,2244,1909,2021-12-04
+10216,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2050,2050,2021-12-05
+3276,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1750,2011,1881,2021-12-06
+1037,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1600,1900,1750,2021-12-07
+13886,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1675,1800,1750,2021-12-08
+8,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1500,2100,1800,2021-12-09
+13282,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1985,2021-12-10
+13971,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1750,1800,1775,2021-12-11
+10243,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2100,2100,2021-12-12
+6033,Ahmednagar,Rahata,Wheat,Other,FAQ,1800,2000,1913,2021-12-13
+1699,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2021-12-14
+7434,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2200,2000,2021-12-15
+13831,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1600,1900,1725,2021-12-16
+5943,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,2002,1850,2021-12-17
+8201,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1400,1876,1700,2021-12-18
+13290,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1985,2021-12-19
+13357,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1990,2021-12-20
+13455,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1930,2000,1990,2021-12-21
+3352,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,2199,1925,2021-12-22
+5932,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1950,1825,2021-12-23
+14823,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1500,1750,1600,2021-12-24
+7309,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,2100,1900,2021-12-25
+13301,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1985,2021-12-26
+10283,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2200,2200,2021-12-27
+13747,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1500,1700,1695,2021-12-28
+10287,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2200,2200,2021-12-29
+14826,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1500,1750,1600,2021-12-30
+77,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1650,2150,1900,2021-12-31
+13436,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1930,2000,1985,2022-01-01
+10308,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1750,2150,2150,2022-01-02
+3321,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1799,2300,2150,2022-01-03
+3468,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,1950,1925,2022-01-04
+409,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1931,2151,2041,2022-01-05
+12945,Ahmednagar,Shrigonda,Wheat,Other,FAQ,1925,2000,1985,2022-01-06
+1675,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2022-01-07
+3224,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1700,2071,1917,2022-01-08
+10291,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2300,2300,2022-01-09
+14830,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1500,1800,1650,2022-01-10
+11838,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1800,1900,1800,2022-01-11
+10244,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2100,2100,2022-01-12
+1178,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2100,1950,2022-01-13
+11486,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,5600,6050,6050,2022-01-14
+1086,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,1900,1800,2022-01-15
+13431,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1930,2000,1980,2022-01-16
+3387,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1809,2151,1926,2022-01-17
+14828,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1500,1800,1600,2022-01-18
+11988,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1925,2000,2000,2022-01-19
+1719,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2022-01-20
+9541,Ahmednagar,Sangamner,Wheat,Other,FAQ,1825,2301,2063,2022-01-21
+5067,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1600,2200,2000,2022-01-22
+10261,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2100,2100,2022-01-23
+5934,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1951,1825,2022-01-24
+11987,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1925,2000,1925,2022-01-25
+13468,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1940,2000,1990,2022-01-26
+11810,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1800,2022-01-27
+10266,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2100,2100,2022-01-28
+10288,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2200,2200,2022-01-29
+10289,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2200,2200,2022-01-30
+1752,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2022-01-31
+1104,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,2000,1850,2022-02-01
+5025,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1500,2000,1800,2022-02-02
+3343,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,2100,1919,2022-02-03
+13459,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1935,2000,1980,2022-02-04
+3113,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1920,1877,2022-02-05
+10236,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2100,2100,2022-02-06
+11855,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1800,1900,1900,2022-02-07
+8489,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1750,1900,1825,2022-02-08
+3116,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1650,1961,1875,2022-02-09
+8134,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1252,2251,2236,2022-02-10
+1691,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2022-02-11
+10277,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2200,2200,2022-02-12
+10278,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2200,2200,2022-02-13
+3415,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1850,2288,1999,2022-02-14
+8919,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2200,2200,2200,2022-02-15
+11801,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1700,1800,1800,2022-02-16
+1711,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2022-02-17
+1715,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2022-02-18
+5898,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1800,1750,2022-02-19
+13294,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1925,2000,1985,2022-02-20
+5935,Ahmednagar,Rahata,Wheat,Other,FAQ,1700,1965,1875,2022-02-21
+8172,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1352,1700,1526,2022-02-22
+9604,Ahmednagar,Sangamner,Wheat,Other,FAQ,1950,2140,2045,2022-02-23
+11867,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1800,1900,1900,2022-02-24
+1732,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1700,1650,2022-02-25
+8295,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1501,2200,1850,2022-02-26
+10284,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1700,2200,2200,2022-02-27
+12043,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2100,2000,2022-02-28
+1159,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2000,1900,2022-03-01
+9530,Ahmednagar,Sangamner,Wheat,Other,FAQ,1800,2001,1900,2022-03-02
+1820,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1800,1750,2022-03-03
+3416,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1850,2299,1955,2022-03-04
+3475,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,2050,2010,2022-03-05
+10520,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1900,2200,2200,2022-03-06
+3485,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1900,2100,2050,2022-03-07
+10313,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1750,2300,2300,2022-03-08
+13478,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1950,2100,2000,2022-03-09
+13479,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1950,2100,2000,2022-03-10
+14609,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2300,2400,2350,2022-03-11
+1278,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2300,2100,2022-03-12
+13481,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,1950,2100,2050,2022-03-13
+3657,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2250,2150,2022-03-14
+11859,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,1800,1900,1900,2022-03-15
+8106,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,700,1900,1500,2022-03-16
+13172,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2200,2400,2300,2022-03-17
+1805,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1600,1900,1750,2022-03-18
+13982,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1750,2511,2000,2022-03-19
+10466,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1850,2400,2400,2022-03-20
+3690,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2450,2142,2022-03-21
+6252,Ahmednagar,Rahata,Wheat,Other,FAQ,2025,2275,2150,2022-03-22
+8532,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1800,2300,2288,2022-03-23
+1882,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-03-24
+1281,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2300,2100,2022-03-25
+13489,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2000,2000,2000,2022-03-26
+10702,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2400,2400,2022-03-27
+6060,Ahmednagar,Rahata,Wheat,Other,FAQ,1800,2320,2065,2022-03-28
+354,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1900,2400,2150,2022-03-29
+8288,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1500,2600,2200,2022-03-30
+6045,Ahmednagar,Rahata,Wheat,Other,FAQ,1800,2150,2071,2022-03-31
+13515,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2100,2400,2200,2022-04-01
+5092,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1700,2300,2000,2022-04-02
+13519,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2100,2400,2250,2022-04-03
+1829,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-04-04
+3784,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2075,2372,2125,2022-04-05
+14133,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1850,2000,1900,2022-04-06
+1834,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-04-07
+10650,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2300,2300,2022-04-08
+12289,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2400,2300,2022-04-09
+1843,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-04-11
+1846,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-04-12
+3692,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2481,2251,2022-04-13
+13130,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2100,2400,2300,2022-04-14
+6248,Ahmednagar,Rahata,Wheat,Other,FAQ,2025,2205,2100,2022-04-15
+8793,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2001,2500,2250,2022-04-16
+1861,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-04-18
+10847,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2425,2425,2022-04-19
+15029,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1700,2100,1900,2022-04-20
+611,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2075,2300,2150,2022-04-21
+6222,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2350,2150,2022-04-22
+6152,Ahmednagar,Rahata,Wheat,Other,FAQ,1950,2272,2100,2022-04-23
+4629,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2200,2200,2200,2022-04-24
+438,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1950,2500,2225,2022-04-25
+6319,Ahmednagar,Rahata,Wheat,Other,FAQ,2100,2217,2137,2022-04-26
+3777,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2060,2501,2291,2022-04-27
+1890,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-04-28
+7694,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2400,2200,2022-04-29
+1897,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-04-30
+14933,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1600,2000,1850,2022-05-02
+14980,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,2000,1900,2022-05-03
+14088,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2375,2100,2022-05-04
+14097,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2525,2100,2022-05-05
+6127,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,2450,2195,2022-05-06
+14099,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2600,2250,2022-05-07
+13945,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1700,2100,1950,2022-05-09
+6382,Ahmednagar,Rahata,Wheat,Other,FAQ,2170,2389,2200,2022-05-10
+15037,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1700,2300,2100,2022-05-11
+14926,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1600,2000,1800,2022-05-12
+1198,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2400,2100,2022-05-13
+1854,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-05-14
+10567,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1925,2000,2000,2022-05-15
+610,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2075,2200,2137,2022-05-16
+1214,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2500,2150,2022-05-17
+14001,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,1800,1800,2022-05-18
+577,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2050,2300,2175,2022-05-19
+1870,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,1900,1800,2022-05-20
+12314,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2400,2400,2022-05-21
+11003,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2500,2300,2022-05-22
+1937,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,2000,1850,2022-05-23
+14248,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2350,2100,2022-05-24
+10745,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2700,2000,2022-05-25
+1154,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,2500,2100,2022-05-26
+1155,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,2500,2100,2022-05-27
+1957,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,2100,1900,2022-05-28
+11234,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2022-05-29
+1951,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,2000,1850,2022-05-30
+3347,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1800,2121,2050,2022-05-31
+559,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2025,2600,2312,2022-06-01
+1149,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,2500,2100,2022-06-02
+550,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2020,2600,2310,2022-06-03
+15019,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1700,2000,1900,2022-06-04
+7602,Ahmednagar,Rahuri,Wheat,Other,FAQ,1950,2050,2000,2022-06-05
+14923,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1600,2000,1800,2022-06-06
+7580,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2400,2150,2022-06-07
+6115,Ahmednagar,Rahata,Wheat,Other,FAQ,1900,2200,2139,2022-06-08
+6290,Ahmednagar,Rahata,Wheat,Other,FAQ,2056,2245,2099,2022-06-09
+3587,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1951,2270,2118,2022-06-10
+1918,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,2000,1850,2022-06-11
+10854,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2500,2500,2022-06-12
+6347,Ahmednagar,Rahata,Wheat,Other,FAQ,2107,2107,2107,2022-06-13
+10334,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1800,2000,2000,2022-06-14
+14897,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1550,2000,1800,2022-06-15
+1200,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1800,2400,2100,2022-06-16
+6183,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2100,2050,2022-06-17
+7581,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2400,2150,2022-06-18
+10883,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2175,2350,2175,2022-06-19
+6214,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2286,2158,2022-06-20
+331,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1900,2100,2000,2022-06-21
+7456,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2400,2100,2022-06-22
+4628,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2200,2200,2200,2022-06-23
+3782,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2075,2332,2170,2022-06-24
+5178,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,2000,2022-06-25
+10569,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1925,2200,2200,2022-06-26
+9644,Ahmednagar,Sangamner,Wheat,Other,FAQ,2000,2851,2425,2022-06-27
+1146,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,2400,2050,2022-06-28
+3804,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2100,2371,2120,2022-06-29
+4648,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2325,2325,2325,2022-06-30
+437,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1950,2500,2225,2022-07-01
+5070,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1600,2300,2000,2022-07-02
+10452,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,1850,2100,2100,2022-07-03
+14988,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1650,2100,2000,2022-07-04
+8821,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2051,2051,2051,2022-07-05
+7676,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2300,2150,2022-07-06
+13089,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2050,2200,2100,2022-07-07
+265,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1800,2300,2050,2022-07-08
+3802,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2100,2350,2200,2022-07-09
+5155,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,2000,2022-07-10
+549,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2011,2111,2061,2022-07-11
+6315,Ahmednagar,Rahata,Wheat,Other,FAQ,2100,2198,2120,2022-07-12
+3876,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2225,2225,2225,2022-07-13
+1349,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-07-14
+10802,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2100,2100,2022-07-15
+6197,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2175,2100,2022-07-16
+10981,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2300,2300,2022-07-17
+9685,Ahmednagar,Sangamner,Wheat,Other,FAQ,2140,2265,2202,2022-07-18
+10865,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2125,2300,2125,2022-07-19
+494,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2300,2050,2022-07-20
+488,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2161,2080,2022-07-21
+6341,Ahmednagar,Rahata,Wheat,Other,FAQ,2100,2500,2340,2022-07-22
+614,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2090,2325,2207,2022-07-23
+10733,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2500,2500,2022-07-24
+14346,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2200,2100,2022-07-25
+1942,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,2000,1850,2022-07-26
+5033,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1500,2000,1800,2022-07-27
+1945,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1700,2000,1850,2022-07-28
+3974,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2315,2449,2330,2022-07-29
+4052,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2386,2511,2449,2022-07-30
+10814,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2200,2200,2022-07-31
+7686,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2350,2175,2022-08-01
+1158,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1700,2600,2150,2022-08-02
+5093,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1700,2300,2000,2022-08-03
+3925,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2300,2391,2361,2022-08-04
+15096,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,2200,2000,2022-08-05
+14555,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2200,2400,2300,2022-08-06
+7779,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2400,2250,2022-08-07
+11111,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2350,2550,2350,2022-08-08
+5094,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1700,2300,2000,2022-08-09
+6467,Ahmednagar,Rahata,Wheat,Other,FAQ,2300,2469,2351,2022-08-10
+8880,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2101,2500,2300,2022-08-11
+15244,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,2100,2000,2022-08-12
+7775,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2300,2200,2022-08-13
+10867,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2150,2150,2150,2022-08-14
+7679,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2300,2150,2022-08-15
+625,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2100,2300,2200,2022-08-16
+6336,Ahmednagar,Rahata,Wheat,Other,FAQ,2100,2400,2350,2022-08-17
+7691,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2400,2200,2022-08-18
+4029,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2370,2501,2425,2022-08-19
+1361,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-08-20
+10973,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2250,2500,2500,2022-08-21
+744,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2300,2500,2400,2022-08-22
+12103,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2400,2400,2022-08-23
+4051,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2385,2560,2422,2022-08-24
+4040,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2376,2475,2420,2022-08-25
+6494,Ahmednagar,Rahata,Wheat,Other,FAQ,2325,2325,2325,2022-08-26
+8931,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2200,2500,2350,2022-08-27
+10855,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2500,2500,2022-08-28
+13083,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2015,2400,2200,2022-08-29
+3924,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2300,2370,2346,2022-08-30
+6429,Ahmednagar,Rahata,Wheat,Other,FAQ,2225,2225,2225,2022-08-31
+9012,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2300,2400,2350,2022-09-01
+8591,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1875,2375,2375,2022-09-02
+1974,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2022-09-03
+10785,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2500,2050,2022-09-04
+1285,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,1900,2400,2150,2022-09-05
+1334,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-09-06
+10849,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2500,2100,2022-09-07
+2035,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2200,2000,2022-09-08
+12008,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2000,2000,2022-09-09
+7319,Ahmednagar,Rahuri,Wheat,Other,FAQ,1700,2500,2100,2022-09-10
+11144,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2551,2551,2022-09-11
+13202,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2300,2300,2300,2022-09-12
+12351,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2400,2400,2022-09-13
+5162,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2200,2000,2022-09-14
+6441,Ahmednagar,Rahata,Wheat,Other,FAQ,2250,2407,2300,2022-09-15
+10929,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2500,2200,2022-09-16
+10911,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2375,2200,2022-09-17
+10971,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2250,2400,2400,2022-09-18
+732,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2251,2251,2251,2022-09-19
+15377,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2200,2100,2022-09-20
+7781,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2400,2250,2022-09-21
+7582,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2400,2150,2022-09-22
+9748,Ahmednagar,Sangamner,Wheat,Other,FAQ,2430,2430,2430,2022-09-23
+3936,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2300,2591,2400,2022-09-24
+10941,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2500,2500,2022-09-25
+7693,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2400,2200,2022-09-26
+1377,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-09-27
+4049,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2384,2555,2425,2022-09-28
+15383,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2200,2100,2022-09-29
+2062,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2200,2000,2022-09-30
+1301,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2200,2100,2022-10-01
+13503,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2100,2250,2200,2022-10-02
+15262,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,2200,2100,2022-10-03
+2026,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2200,2000,2022-10-04
+14594,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2251,2550,2350,2022-10-05
+1333,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-10-06
+1335,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-10-07
+2034,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2200,2000,2022-10-08
+15409,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2100,2300,2200,2022-10-10
+1985,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2022-10-11
+12114,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2100,2200,2100,2022-10-12
+8777,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2650,2325,2022-10-13
+15412,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2100,2300,2200,2022-10-14
+2046,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2200,2000,2022-10-15
+11236,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2550,2500,2022-10-16
+6507,Ahmednagar,Rahata,Wheat,Other,FAQ,2350,2661,2514,2022-10-17
+14750,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2575,2575,2575,2022-10-18
+13499,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2050,2200,2150,2022-10-19
+15376,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2200,2100,2022-10-20
+15416,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2100,2300,2200,2022-10-21
+5220,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1800,2600,2000,2022-10-22
+10948,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2551,2551,2022-10-25
+8787,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2901,2500,2022-10-26
+1376,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-10-27
+10747,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2800,2800,2022-10-28
+4264,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2511,2642,2535,2022-10-29
+10956,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2700,2700,2022-10-30
+1381,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-10-31
+1970,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2000,1900,2022-11-01
+637,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2100,2551,2325,2022-11-02
+13500,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2050,2250,2100,2022-11-03
+1327,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-11-04
+5378,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2600,2200,2022-11-05
+13505,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2100,2300,2200,2022-11-06
+1307,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2200,2100,2022-11-07
+13506,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2100,2300,2200,2022-11-08
+5274,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1900,2300,2000,2022-11-09
+6910,Ahmednagar,Rahata,Wheat,Other,FAQ,2800,3150,2975,2022-11-10
+9148,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2400,3251,2825,2022-11-11
+14557,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2200,2500,2300,2022-11-12
+13535,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2100,2500,2350,2022-11-13
+7585,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2800,2400,2022-11-14
+7708,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2800,2400,2022-11-15
+15375,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2200,2100,2022-11-16
+9174,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2450,3000,2701,2022-11-17
+13203,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2300,2300,2300,2022-11-18
+5444,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2100,2600,2200,2022-11-19
+13248,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2500,2800,2600,2022-11-20
+1363,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-11-21
+1367,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2022-11-22
+5360,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2500,2200,2022-11-23
+7942,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,2800,2600,2022-11-24
+14674,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2400,2600,2500,2022-11-25
+11401,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2700,2700,2700,2022-11-26
+11333,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2900,2900,2022-11-27
+7710,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2800,2400,2022-11-28
+13536,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2150,2450,2300,2022-11-29
+6777,Ahmednagar,Rahata,Wheat,Other,FAQ,2561,2755,2675,2022-11-30
+15423,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2150,2500,2350,2022-12-01
+13576,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2400,2600,2500,2022-12-02
+6792,Ahmednagar,Rahata,Wheat,Other,FAQ,2575,3027,2751,2022-12-03
+11097,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,3000,2300,2022-12-04
+14534,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2150,2851,2500,2022-12-05
+13260,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2600,2600,2600,2022-12-06
+13158,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2200,2200,2200,2022-12-07
+2119,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2200,2100,2022-12-08
+8578,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1851,2801,2801,2022-12-09
+6830,Ahmednagar,Rahata,Wheat,Other,FAQ,2645,2976,2732,2022-12-10
+11327,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2900,2900,2022-12-12
+4363,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2610,2653,2625,2022-12-13
+4376,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2630,2669,2651,2022-12-14
+714,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2200,3000,2600,2022-12-15
+10965,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,3000,2200,2022-12-16
+6559,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2800,2600,2022-12-17
+11222,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2022-12-18
+12763,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2800,2800,2800,2022-12-19
+12627,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2800,2800,2022-12-20
+11369,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2600,2600,2600,2022-12-21
+1422,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2600,2300,2022-12-22
+11470,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2900,3000,2900,2022-12-23
+2080,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2400,2100,2022-12-24
+13261,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2600,2600,2600,2022-12-25
+14313,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1970,1970,1970,2022-12-26
+2170,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2300,2150,2022-12-27
+11312,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2850,2850,2022-12-28
+14417,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2900,2475,2022-12-29
+9819,Ahmednagar,Sangamner,Wheat,Other,FAQ,2894,2925,2909,2022-12-30
+11320,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2900,2500,2022-12-31
+11099,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,3000,3000,2023-01-01
+13221,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2400,2600,2500,2023-01-02
+4009,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2350,2876,2710,2023-01-04
+13559,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2200,2500,2400,2023-01-05
+2073,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2400,2100,2023-01-06
+2074,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2400,2100,2023-01-07
+10791,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2500,2500,2023-01-08
+797,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2350,3000,2675,2023-01-09
+545,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,3000,2500,2023-01-10
+9745,Ahmednagar,Sangamner,Wheat,Other,FAQ,2400,2771,2584,2023-01-11
+362,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1900,3000,2450,2023-01-12
+14723,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2500,2700,2600,2023-01-13
+4430,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2750,3000,2771,2023-01-14
+11368,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2600,2600,2600,2023-01-16
+2320,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2900,2450,2023-01-17
+5391,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2600,2300,2023-01-18
+842,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,3000,2700,2023-01-19
+843,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,3000,2700,2023-01-20
+844,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,3000,2700,2023-01-21
+11226,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2023-01-22
+2316,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2800,2400,2023-01-23
+14727,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2500,2750,2625,2023-01-24
+5370,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2500,2300,2023-01-25
+4397,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2675,3132,2880,2023-01-27
+2081,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2400,2100,2023-01-28
+1439,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2700,2350,2023-01-30
+4156,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2453,2811,2791,2023-01-31
+9043,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2300,2811,2555,2023-02-01
+2175,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-02-02
+13238,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2500,2500,2500,2023-02-03
+4078,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2400,2772,2500,2023-02-04
+7798,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2800,2450,2023-02-05
+443,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1950,3050,2500,2023-02-06
+13265,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2800,2800,2800,2023-02-07
+539,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2800,2400,2023-02-08
+4132,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2440,2952,2500,2023-02-09
+2201,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-02-10
+827,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,2850,2625,2023-02-11
+10963,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2900,2200,2023-02-12
+14403,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2600,2300,2023-02-13
+1532,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2700,2450,2023-02-14
+8933,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2200,2600,2500,2023-02-15
+2161,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2300,2150,2023-02-16
+13225,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2400,2800,2600,2023-02-17
+8909,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2175,2451,2276,2023-02-18
+2230,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-02-20
+3608,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1980,2501,2323,2023-02-21
+3584,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1950,2571,2340,2023-02-22
+3773,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2055,2576,2312,2023-02-23
+3735,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2030,2415,2200,2023-02-24
+3821,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2111,2500,2340,2023-02-25
+7790,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2600,2350,2023-02-26
+526,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2500,2250,2023-02-27
+11232,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2023-02-28
+8846,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2100,2151,2125,2023-03-01
+2178,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-03-02
+3746,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2044,2390,2261,2023-03-03
+2152,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2300,2150,2023-03-04
+10840,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2400,2400,2023-03-05
+3726,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2025,2195,2112,2023-03-06
+8653,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1904,2277,2277,2023-03-07
+7498,Ahmednagar,Rahuri,Wheat,Other,FAQ,1850,2250,2050,2023-03-08
+7453,Ahmednagar,Rahuri,Wheat,Other,FAQ,1800,2300,2200,2023-03-09
+10681,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2400,2000,2023-03-10
+5276,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1900,2300,2000,2023-03-11
+7361,Ahmednagar,Rahuri,Wheat,Other,FAQ,1750,2400,2250,2023-03-12
+15315,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1950,2100,2000,2023-03-13
+8531,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1800,2300,2100,2023-03-14
+5315,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2300,2200,2023-03-15
+15022,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1700,2000,1900,2023-03-16
+8711,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1975,2400,2100,2023-03-17
+6051,Ahmednagar,Rahata,Wheat,Other,FAQ,1800,2199,2071,2023-03-18
+13109,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2100,2350,2200,2023-03-19
+2134,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2200,2100,2023-03-20
+6091,Ahmednagar,Rahata,Wheat,Other,FAQ,1870,2300,2060,2023-03-21
+1423,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2600,2300,2023-03-22
+15245,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,2100,2000,2023-03-23
+14436,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2050,2251,2100,2023-03-24
+2249,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-03-25
+10673,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2350,2350,2023-03-26
+6281,Ahmednagar,Rahata,Wheat,Other,FAQ,2050,2400,2225,2023-03-27
+13841,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1600,2200,2100,2023-03-28
+14095,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2400,2300,2023-03-29
+14310,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1961,2100,2000,2023-03-30
+6264,Ahmednagar,Rahata,Wheat,Other,FAQ,2040,2355,2200,2023-03-31
+15240,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,2100,2000,2023-04-01
+10720,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2500,2500,2023-04-02
+15238,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,2050,2000,2023-04-03
+8506,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1799,2486,2150,2023-04-04
+6203,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2246,2150,2023-04-05
+13094,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2050,2300,2200,2023-04-06
+13123,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2100,2400,2300,2023-04-07
+12307,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2400,2400,2023-04-08
+10651,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2300,2300,2023-04-09
+1490,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2600,2400,2023-04-10
+14296,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1950,2325,2200,2023-04-11
+14079,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2311,2250,2023-04-12
+13129,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2100,2400,2300,2023-04-13
+6224,Ahmednagar,Rahata,Wheat,Other,FAQ,2000,2355,2251,2023-04-14
+8661,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1925,2200,2100,2023-04-15
+13131,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2100,2400,2300,2023-04-16
+9638,Ahmednagar,Sangamner,Wheat,Other,FAQ,2000,2221,2110,2023-04-17
+1502,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2600,2400,2023-04-18
+15316,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1950,2100,2000,2023-04-19
+1398,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2500,2250,2023-04-20
+7565,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2250,2050,2023-04-21
+10659,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2300,2300,2023-04-22
+7658,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2200,2100,2023-04-23
+2245,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-04-24
+10699,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2000,2400,2400,2023-04-25
+14000,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1775,2150,2000,2023-04-26
+2342,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2400,2300,2023-04-27
+1543,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2700,2450,2023-04-28
+1544,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2700,2450,2023-04-29
+10765,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2300,2300,2023-04-30
+6312,Ahmednagar,Rahata,Wheat,Other,FAQ,2100,2140,2121,2023-05-01
+527,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2550,2275,2023-05-02
+14221,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1900,2200,2150,2023-05-03
+13122,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2100,2400,2300,2023-05-04
+9659,Ahmednagar,Sangamner,Wheat,Other,FAQ,2055,2340,2197,2023-05-05
+1484,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2600,2400,2023-05-06
+13521,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2100,2400,2250,2023-05-07
+12407,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2500,2023-05-08
+10772,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2400,2050,2023-05-09
+14452,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2075,2175,2100,2023-05-10
+12376,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2023-05-11
+15314,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1950,2100,2000,2023-05-12
+15267,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1925,2100,2000,2023-05-13
+10917,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2400,2400,2023-05-14
+12211,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2200,2300,2300,2023-05-15
+6324,Ahmednagar,Rahata,Wheat,Other,FAQ,2100,2250,2150,2023-05-16
+14376,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2350,2200,2023-05-17
+12382,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2023-05-18
+10800,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2075,2400,2400,2023-05-19
+10780,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2400,2400,2023-05-20
+10781,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2400,2400,2023-05-21
+10782,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2400,2400,2023-05-22
+3891,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2245,2400,2300,2023-05-23
+15379,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2200,2100,2023-05-24
+6353,Ahmednagar,Rahata,Wheat,Other,FAQ,2125,2420,2275,2023-05-25
+14368,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2300,2250,2023-05-26
+2089,Ahmednagar,Jamkhed,Wheat,Other,FAQ,1800,2600,2200,2023-05-27
+10846,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2400,2400,2023-05-28
+1430,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2600,2300,2023-05-29
+3555,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1932,2370,2237,2023-05-30
+6373,Ahmednagar,Rahata,Wheat,Other,FAQ,2150,2478,2315,2023-05-31
+2174,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-06-01
+8861,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2100,2400,2250,2023-06-02
+8864,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2100,2450,2275,2023-06-03
+10776,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2400,2400,2023-06-04
+1481,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2600,2400,2023-06-05
+6415,Ahmednagar,Rahata,Wheat,Other,FAQ,2200,2526,2325,2023-06-06
+14364,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2300,2200,2023-06-07
+15098,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,2200,2000,2023-06-08
+1408,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2600,2300,2023-06-09
+13877,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1650,2375,2100,2023-06-10
+10759,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2050,2300,2050,2023-06-11
+1413,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2600,2300,2023-06-12
+15034,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1700,2200,1900,2023-06-13
+5285,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1900,2300,2100,2023-06-14
+2216,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-06-15
+15102,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,2200,2000,2023-06-16
+15103,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,2200,2000,2023-06-17
+10890,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2250,2200,2023-06-18
+7766,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2250,2175,2023-06-19
+7360,Ahmednagar,Rahuri,Wheat,Other,FAQ,1750,2250,2000,2023-06-20
+3871,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2216,2400,2319,2023-06-21
+7681,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2300,2150,2023-06-22
+3883,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2230,2361,2280,2023-06-23
+15353,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2000,2000,2000,2023-06-24
+10985,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2300,2300,2023-06-25
+15107,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1800,2200,2000,2023-06-26
+8868,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2100,2500,2300,2023-06-27
+15248,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,1900,2100,2000,2023-06-28
+12360,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2400,2400,2023-06-29
+12093,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2000,2200,2200,2023-06-30
+7805,Ahmednagar,Rahuri,Wheat,Other,FAQ,2150,2200,2175,2023-07-01
+10825,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2300,2300,2023-07-02
+6435,Ahmednagar,Rahata,Wheat,Other,FAQ,2236,2275,2251,2023-07-03
+15395,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2100,2100,2100,2023-07-04
+12106,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2100,2100,2100,2023-07-05
+434,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1950,2450,2200,2023-07-06
+12460,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2450,2450,2450,2023-07-07
+3578,Ahmednagar,Kopargaon,Wheat,Other,FAQ,1950,2255,2211,2023-07-08
+7687,Ahmednagar,Rahuri,Wheat,Other,FAQ,2000,2350,2175,2023-07-09
+7774,Ahmednagar,Rahuri,Wheat,Other,FAQ,2100,2300,2200,2023-07-10
+6434,Ahmednagar,Rahata,Wheat,Other,FAQ,2230,2409,2371,2023-07-11
+6427,Ahmednagar,Rahata,Wheat,Other,FAQ,2220,2320,2285,2023-07-12
+14522,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2150,2300,2250,2023-07-13
+6371,Ahmednagar,Rahata,Wheat,Other,FAQ,2150,2470,2300,2023-07-14
+1416,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2600,2300,2023-07-15
+10895,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2300,2200,2023-07-16
+6402,Ahmednagar,Rahata,Wheat,Other,FAQ,2200,2351,2320,2023-07-17
+12182,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2200,2300,2200,2023-07-18
+4711,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2200,2200,2200,2023-07-19
+8947,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2201,2253,2225,2023-07-20
+10877,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2150,2400,2400,2023-07-21
+5331,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2023-07-22
+4718,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2250,2250,2250,2023-07-23
+4722,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2300,2300,2300,2023-07-24
+1402,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2500,2250,2023-07-25
+12345,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2350,2500,2350,2023-07-26
+2254,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-07-27
+4046,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2380,2394,2390,2023-07-28
+5320,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2300,2200,2023-07-29
+11106,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2350,2350,2350,2023-07-30
+12239,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2200,2400,2200,2023-07-31
+7579,Ahmednagar,Rahuri,Wheat,Other,FAQ,1900,2400,2150,2023-08-01
+15445,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2300,2300,2300,2023-08-02
+12366,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2023-08-03
+6478,Ahmednagar,Rahata,Wheat,Other,FAQ,2300,2731,2575,2023-08-04
+5350,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2500,2200,2023-08-05
+12368,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2023-08-06
+4730,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2350,2350,2350,2023-08-07
+8688,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1950,2321,2285,2023-08-08
+4157,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2455,2550,2521,2023-08-09
+2278,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2500,2250,2023-08-10
+2297,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2600,2300,2023-08-11
+1412,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2600,2300,2023-08-12
+4725,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2300,2550,2400,2023-08-13
+1393,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2000,2500,2250,2023-08-14
+6544,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2675,2546,2023-08-15
+5267,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,1900,2200,2000,2023-08-16
+6646,Ahmednagar,Rahata,Wheat,Other,FAQ,2480,2713,2600,2023-08-17
+6722,Ahmednagar,Rahata,Wheat,Other,FAQ,2501,2752,2565,2023-08-18
+6593,Ahmednagar,Rahata,Wheat,Other,FAQ,2435,2725,2520,2023-08-19
+584,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2050,2500,2275,2023-08-21
+12331,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2500,2500,2023-08-22
+4114,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2425,2590,2470,2023-08-23
+12428,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2500,2023-08-24
+4883,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2600,2600,2600,2023-08-25
+6642,Ahmednagar,Rahata,Wheat,Other,FAQ,2476,2553,2516,2023-08-26
+11023,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2550,2300,2023-08-27
+4655,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2350,2350,2350,2023-08-28
+13194,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2200,2500,2400,2023-08-29
+6615,Ahmednagar,Rahata,Wheat,Other,FAQ,2450,2780,2641,2023-08-30
+9118,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2400,2500,2450,2023-08-31
+6631,Ahmednagar,Rahata,Wheat,Other,FAQ,2461,2713,2600,2023-09-01
+12365,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2023-09-02
+4785,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2500,2500,2023-09-03
+6603,Ahmednagar,Rahata,Wheat,Other,FAQ,2450,2516,2475,2023-09-04
+10972,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2250,2500,2250,2023-09-05
+4261,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2502,2700,2619,2023-09-06
+2369,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2600,2400,2023-09-08
+4164,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2460,2600,2465,2023-09-09
+10927,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2500,2200,2023-09-10
+6555,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2771,2540,2023-09-11
+11011,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2500,2500,2023-09-12
+12379,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2023-09-13
+6637,Ahmednagar,Rahata,Wheat,Other,FAQ,2470,2745,2605,2023-09-14
+8973,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2251,2851,2425,2023-09-15
+1499,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2600,2400,2023-09-16
+4699,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2000,2000,2000,2023-09-17
+1503,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2600,2400,2023-09-18
+8207,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1400,2350,2350,2023-09-19
+5468,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2200,2500,2250,2023-09-20
+13155,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2150,2400,2300,2023-09-21
+2241,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-09-22
+5374,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2500,2350,2023-09-23
+11237,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2550,2500,2023-09-24
+6524,Ahmednagar,Rahata,Wheat,Other,FAQ,2375,2825,2600,2023-09-25
+11215,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2450,2500,2500,2023-09-26
+3816,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2101,2875,2511,2023-09-27
+8934,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2200,2652,2425,2023-09-28
+12436,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2500,2023-09-29
+6602,Ahmednagar,Rahata,Wheat,Other,FAQ,2448,2751,2600,2023-09-30
+11048,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2650,2300,2023-10-01
+6601,Ahmednagar,Rahata,Wheat,Other,FAQ,2446,2800,2700,2023-10-02
+12557,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2600,2600,2023-10-03
+14505,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2100,2600,2450,2023-10-04
+1482,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2600,2400,2023-10-05
+14397,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2500,2400,2023-10-06
+8989,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2275,2750,2500,2023-10-07
+11178,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2750,2400,2023-10-08
+12486,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2023-10-09
+6627,Ahmednagar,Rahata,Wheat,Other,FAQ,2460,2725,2646,2023-10-10
+12534,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2600,2500,2023-10-11
+13154,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2150,2400,2250,2023-10-12
+12324,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2500,2300,2023-10-13
+15440,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2200,2400,2300,2023-10-14
+14394,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2500,2300,2023-10-16
+4880,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2600,2600,2600,2023-10-17
+15462,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2300,2300,2300,2023-10-18
+6651,Ahmednagar,Rahata,Wheat,Other,FAQ,2486,2540,2500,2023-10-19
+2234,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-10-20
+15468,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2300,2300,2300,2023-10-21
+11279,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2750,2500,2023-10-22
+2243,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-10-23
+12429,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2500,2023-10-24
+5449,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2100,2600,2350,2023-10-25
+1541,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2700,2450,2023-10-26
+14413,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2700,2600,2023-10-27
+11283,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2750,2750,2023-10-28
+4747,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2600,2400,2023-10-29
+14563,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2200,2575,2500,2023-10-30
+12587,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2600,2600,2023-10-31
+5324,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2000,2400,2200,2023-11-01
+4081,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2400,2825,2620,2023-11-02
+4374,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2625,2711,2680,2023-11-03
+12525,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2600,2500,2023-11-04
+4088,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2400,2900,2750,2023-11-06
+271,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,1800,2700,2250,2023-11-07
+9137,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2400,2851,2552,2023-11-08
+6715,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,3034,2851,2023-11-09
+12567,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2600,2600,2023-11-10
+6851,Ahmednagar,Rahata,Wheat,Other,FAQ,2680,2850,2725,2023-11-11
+11357,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,3025,2500,2023-11-13
+4770,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2900,2700,2023-11-14
+5465,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2150,2700,2400,2023-11-15
+6856,Ahmednagar,Rahata,Wheat,Other,FAQ,2686,2901,2800,2023-11-16
+4394,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2671,3051,2900,2023-11-17
+1536,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2700,2450,2023-11-18
+11365,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2550,3000,2550,2023-11-19
+7998,Ahmednagar,Rahuri,Wheat,Other,FAQ,2500,2750,2625,2023-11-20
+14402,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2550,2500,2023-11-21
+9184,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2451,3145,2850,2023-11-22
+14551,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2200,2350,2300,2023-11-23
+4423,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2706,2999,2927,2023-11-24
+2250,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-11-25
+4803,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2500,2500,2023-11-26
+4380,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2650,2700,2684,2023-11-27
+4395,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2673,2940,2828,2023-11-28
+8829,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2066,2900,2700,2023-11-29
+6770,Ahmednagar,Rahata,Wheat,Other,FAQ,2550,2951,2750,2023-11-30
+13544,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2200,2400,2300,2023-12-01
+5434,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2100,2500,2300,2023-12-02
+13546,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2200,2400,2300,2023-12-03
+11335,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2950,2500,2023-12-04
+11338,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,3000,2500,2023-12-05
+2270,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2500,2250,2023-12-06
+1526,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2700,2450,2023-12-07
+9645,Ahmednagar,Sangamner,Wheat,Other,FAQ,2000,2900,2450,2023-12-08
+6574,Ahmednagar,Rahata,Wheat,Other,FAQ,2401,2896,2750,2023-12-09
+13571,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2400,2400,2400,2023-12-10
+6620,Ahmednagar,Rahata,Wheat,Other,FAQ,2450,2900,2786,2023-12-11
+2208,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-12-12
+5585,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2600,3200,2850,2023-12-13
+15457,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2300,2300,2300,2023-12-14
+544,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2950,2475,2023-12-15
+12685,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2600,2023-12-16
+11196,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2800,2800,2023-12-17
+14590,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2250,2800,2700,2023-12-18
+4663,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2450,2450,2450,2023-12-19
+11150,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2600,2400,2023-12-20
+9069,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2350,2400,2375,2023-12-21
+11274,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2700,2700,2023-12-22
+5584,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2600,3200,2800,2023-12-23
+9807,Ahmednagar,Sangamner,Wheat,Other,FAQ,2770,2770,2770,2023-12-25
+2252,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2023-12-26
+12703,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2700,2023-12-27
+12676,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2600,2600,2023-12-28
+13590,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2500,2700,2600,2023-12-29
+4071,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2400,2665,2588,2023-12-30
+11308,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2800,2800,2023-12-31
+4103,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2410,2481,2454,2024-01-01
+4099,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2401,2951,2601,2024-01-02
+6677,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,2636,2570,2024-01-03
+2332,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2400,2300,2024-01-04
+6629,Ahmednagar,Rahata,Wheat,Other,FAQ,2460,2740,2550,2024-01-05
+5563,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2500,3000,2800,2024-01-06
+7961,Ahmednagar,Rahuri,Wheat,Other,FAQ,2450,2600,2500,2024-01-07
+7921,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,2600,2500,2024-01-08
+7987,Ahmednagar,Rahuri,Wheat,Other,FAQ,2500,2700,2600,2024-01-09
+11269,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2700,2700,2024-01-10
+14502,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2100,2600,2400,2024-01-11
+2209,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2400,2200,2024-01-12
+8885,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2102,2750,2400,2024-01-13
+11136,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2024-01-14
+12660,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2600,2600,2024-01-15
+6556,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2786,2550,2024-01-16
+13591,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2500,3000,2750,2024-01-17
+7934,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,2700,2550,2024-01-18
+8005,Ahmednagar,Rahuri,Wheat,Other,FAQ,2500,2800,2650,2024-01-19
+8788,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2000,2951,2700,2024-01-20
+12700,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2700,2024-01-23
+6714,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,3007,2771,2024-01-24
+7913,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,2500,2450,2024-01-25
+6784,Ahmednagar,Rahata,Wheat,Other,FAQ,2571,2851,2620,2024-01-26
+1542,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2700,2450,2024-01-27
+11233,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2024-01-28
+7960,Ahmednagar,Rahuri,Wheat,Other,FAQ,2450,2550,2500,2024-01-29
+4326,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2585,2801,2646,2024-01-30
+9795,Ahmednagar,Sangamner,Wheat,Other,FAQ,2700,2700,2700,2024-01-31
+4314,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2571,2775,2615,2024-02-01
+12691,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2700,2024-02-02
+4172,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2473,2851,2717,2024-02-03
+11267,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2700,2700,2024-02-04
+14415,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2800,2600,2024-02-05
+9038,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2300,2775,2500,2024-02-06
+6551,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2751,2575,2024-02-07
+4096,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2401,2812,2750,2024-02-08
+9743,Ahmednagar,Sangamner,Wheat,Other,FAQ,2400,2700,2550,2024-02-09
+4016,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2356,2721,2620,2024-02-10
+6422,Ahmednagar,Rahata,Wheat,Other,FAQ,2201,2721,2461,2024-02-12
+3698,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2000,2842,2675,2024-02-13
+3969,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2301,2784,2651,2024-02-14
+12695,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2700,2024-02-15
+3999,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2350,2780,2590,2024-02-16
+6597,Ahmednagar,Rahata,Wheat,Other,FAQ,2441,2911,2601,2024-02-17
+11058,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2700,2300,2024-02-18
+7880,Ahmednagar,Rahuri,Wheat,Other,FAQ,2250,2411,2300,2024-02-19
+6451,Ahmednagar,Rahata,Wheat,Other,FAQ,2266,2751,2476,2024-02-20
+12508,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2024-02-21
+1507,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2600,2400,2024-02-22
+542,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2000,2800,2400,2024-02-23
+3866,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2201,2811,2592,2024-02-24
+10977,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2250,2600,2600,2024-02-25
+6423,Ahmednagar,Rahata,Wheat,Other,FAQ,2201,2721,2600,2024-02-26
+3857,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2200,2661,2450,2024-02-27
+10919,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2400,2400,2024-02-28
+3903,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2266,2665,2525,2024-02-29
+1571,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2300,2500,2400,2024-03-01
+5480,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2200,2700,2500,2024-03-02
+10860,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2100,2625,2625,2024-03-03
+6426,Ahmednagar,Rahata,Wheat,Other,FAQ,2215,2276,2250,2024-03-04
+11040,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2600,2600,2024-03-05
+10947,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2200,2551,2551,2024-03-06
+4002,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2350,2790,2635,2024-03-07
+4898,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2600,2800,2700,2024-03-08
+1575,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2300,2800,2550,2024-03-09
+11145,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2600,2400,2024-03-10
+3978,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2325,2715,2564,2024-03-11
+8826,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2051,2626,2400,2024-03-12
+3950,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2300,2727,2504,2024-03-13
+2570,Ahmednagar,Karjat,Wheat,Other,FAQ,2000,2700,2500,2024-03-14
+14610,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2300,2400,2350,2024-03-15
+1584,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2400,3000,2700,2024-03-16
+2571,Ahmednagar,Karjat,Wheat,Other,FAQ,2000,2700,2500,2024-03-17
+12503,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2024-03-18
+14101,Ahmednagar,Shrirampur,Wheat,Other,FAQ,1800,2660,2500,2024-03-19
+9734,Ahmednagar,Sangamner,Wheat,Other,FAQ,2350,2500,2425,2024-03-20
+2573,Ahmednagar,Karjat,Wheat,Other,FAQ,2000,2700,2500,2024-03-21
+2487,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2500,2700,2600,2024-03-22
+2499,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2500,2800,2650,2024-03-23
+2795,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,2800,2650,2024-03-24
+6462,Ahmednagar,Rahata,Wheat,Other,FAQ,2285,2571,2450,2024-03-25
+14567,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2200,2600,2400,2024-03-26
+9022,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2300,2501,2400,2024-03-27
+6414,Ahmednagar,Rahata,Wheat,Other,FAQ,2200,2510,2369,2024-03-28
+2796,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,2800,2650,2024-03-29
+2632,Ahmednagar,Karjat,Wheat,Other,FAQ,2200,2800,2500,2024-03-30
+2633,Ahmednagar,Karjat,Wheat,Other,FAQ,2200,2800,2500,2024-03-31
+6460,Ahmednagar,Rahata,Wheat,Other,FAQ,2280,2599,2450,2024-04-01
+8545,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,1800,2600,2400,2024-04-02
+4743,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2600,2400,2024-04-03
+14491,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2100,2451,2300,2024-04-04
+2349,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2500,2350,2024-04-05
+11281,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2750,2750,2024-04-06
+10976,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2250,2600,2600,2024-04-07
+6470,Ahmednagar,Rahata,Wheat,Other,FAQ,2300,2570,2435,2024-04-08
+4005,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2350,2812,2600,2024-04-09
+4835,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2700,2600,2024-04-12
+2496,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2500,2800,2650,2024-04-13
+4827,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2700,2500,2024-04-14
+3960,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2300,2911,2472,2024-04-15
+4760,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2700,2600,2024-04-17
+6577,Ahmednagar,Rahata,Wheat,Other,FAQ,2411,2600,2505,2024-04-19
+4741,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2500,2400,2024-04-20
+11224,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2024-04-21
+11261,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2700,2500,2024-04-22
+4951,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2700,2900,2750,2024-04-23
+5595,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2800,3200,3000,2024-04-24
+9263,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2602,2602,2602,2024-04-25
+4375,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2626,2898,2739,2024-04-26
+9141,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2400,2900,2650,2024-04-27
+4804,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2500,2500,2024-04-28
+13156,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2150,2700,2500,2024-04-29
+2432,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,3000,2600,2024-04-30
+6484,Ahmednagar,Rahata,Wheat,Other,FAQ,2301,2526,2400,2024-05-01
+6519,Ahmednagar,Rahata,Wheat,Other,FAQ,2370,2690,2426,2024-05-02
+11078,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2800,2800,2024-05-03
+4748,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2600,2450,2024-05-04
+11072,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2750,2750,2024-05-05
+4102,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2405,2944,2731,2024-05-06
+8958,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2250,2351,2300,2024-05-07
+6546,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2680,2550,2024-05-08
+6518,Ahmednagar,Rahata,Wheat,Other,FAQ,2367,2731,2550,2024-05-09
+11085,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2800,2800,2024-05-10
+11394,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2650,2775,2650,2024-05-11
+9209,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2500,2725,2626,2024-05-14
+6528,Ahmednagar,Rahata,Wheat,Other,FAQ,2390,2726,2600,2024-05-15
+6613,Ahmednagar,Rahata,Wheat,Other,FAQ,2450,2746,2501,2024-05-16
+4090,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2400,3011,2750,2024-05-17
+12311,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2400,2400,2024-05-18
+4776,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2450,2600,2450,2024-05-19
+11089,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2800,2800,2024-05-20
+9086,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2351,2650,2400,2024-05-21
+8825,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2051,2575,2400,2024-05-22
+9039,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2300,2776,2538,2024-05-23
+2641,Ahmednagar,Karjat,Wheat,Other,FAQ,2200,3000,2600,2024-05-24
+12456,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2700,2700,2024-05-25
+11292,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2800,2500,2024-05-26
+6696,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,2780,2595,2024-05-27
+2395,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2700,2450,2024-05-28
+4782,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2450,2900,2625,2024-05-29
+2419,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2800,2500,2024-05-30
+4863,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2900,2500,2024-05-31
+11077,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2800,2800,2024-06-01
+11075,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2800,2300,2024-06-02
+14656,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2351,2750,2600,2024-06-03
+2311,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2800,2400,2024-06-04
+7846,Ahmednagar,Rahuri,Wheat,Other,FAQ,2200,2600,2400,2024-06-05
+6806,Ahmednagar,Rahata,Wheat,Other,FAQ,2600,2770,2700,2024-06-06
+11444,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2800,2900,2800,2024-06-07
+2613,Ahmednagar,Karjat,Wheat,Other,FAQ,2200,2800,2500,2024-06-08
+2671,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,2800,2500,2024-06-09
+6536,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2616,2500,2024-06-10
+11129,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2350,2850,2850,2024-06-11
+4406,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2691,2691,2691,2024-06-12
+7850,Ahmednagar,Rahuri,Wheat,Other,FAQ,2200,2600,2400,2024-06-13
+9814,Ahmednagar,Sangamner,Wheat,Other,FAQ,2801,2801,2801,2024-06-14
+12661,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2600,2600,2024-06-15
+6530,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2550,2500,2024-06-17
+12769,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2800,2900,2800,2024-06-18
+9173,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2450,2700,2575,2024-06-19
+12545,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2600,2500,2024-06-20
+11366,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2550,3000,3000,2024-06-21
+4799,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2500,2500,2024-06-22
+11404,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2700,2800,2800,2024-06-23
+12389,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2024-06-24
+9240,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2550,2851,2700,2024-06-25
+5542,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2400,3300,2900,2024-06-26
+4133,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2441,2771,2611,2024-06-27
+6801,Ahmednagar,Rahata,Wheat,Other,FAQ,2599,2860,2729,2024-06-28
+6616,Ahmednagar,Rahata,Wheat,Other,FAQ,2450,2800,2711,2024-06-29
+4985,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2800,2800,2800,2024-06-30
+11094,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2900,2900,2024-07-01
+9316,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2949,3000,2975,2024-07-02
+12639,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2600,2600,2024-07-03
+860,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,4400,3400,2024-07-04
+4125,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2430,2839,2636,2024-07-05
+6857,Ahmednagar,Rahata,Wheat,Other,FAQ,2690,2728,2710,2024-07-06
+11095,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2900,2900,2024-07-07
+11063,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2700,2700,2024-07-08
+4095,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2401,2812,2514,2024-07-09
+9306,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2900,2900,2900,2024-07-10
+782,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2300,4400,3350,2024-07-11
+12412,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2500,2024-07-12
+6590,Ahmednagar,Rahata,Wheat,Other,FAQ,2426,2426,2426,2024-07-13
+6570,Ahmednagar,Rahata,Wheat,Other,FAQ,2401,2625,2500,2024-07-15
+2408,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2800,2500,2024-07-16
+5587,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2600,3200,2900,2024-07-17
+9273,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2653,2850,2751,2024-07-18
+9762,Ahmednagar,Sangamner,Wheat,Other,FAQ,2500,2500,2500,2024-07-19
+11093,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2900,2300,2024-07-20
+4851,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2800,2500,2024-07-21
+6660,Ahmednagar,Rahata,Wheat,Other,FAQ,2499,2699,2550,2024-07-22
+9114,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2400,2400,2400,2024-07-23
+12765,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2800,2800,2800,2024-07-24
+853,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,3500,2950,2024-07-25
+4816,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2600,2500,2024-07-26
+4854,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2800,2600,2024-07-27
+11128,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2350,2800,2800,2024-07-28
+11437,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2750,2900,2900,2024-07-29
+12712,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,3000,2600,2024-07-30
+14576,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2200,2750,2600,2024-07-31
+4258,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2501,2931,2601,2024-08-01
+14603,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2300,2300,2300,2024-08-02
+6758,Ahmednagar,Rahata,Wheat,Other,FAQ,2546,2930,2800,2024-08-03
+11188,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2800,2800,2024-08-04
+4733,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2400,2400,2024-08-05
+6693,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,2771,2650,2024-08-06
+14493,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2100,2475,2300,2024-08-07
+15448,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2300,2300,2300,2024-08-08
+921,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,3600,3050,2024-08-09
+15488,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2300,2600,2400,2024-08-10
+11407,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2700,2961,2961,2024-08-11
+9813,Ahmednagar,Sangamner,Wheat,Other,FAQ,2801,2801,2801,2024-08-12
+2436,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,3200,2700,2024-08-13
+9810,Ahmednagar,Sangamner,Wheat,Other,FAQ,2795,2795,2795,2024-08-14
+12277,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2300,2300,2300,2024-08-15
+4750,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2600,2500,2024-08-16
+12663,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2600,2600,2024-08-17
+4979,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2800,2800,2800,2024-08-18
+4293,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2550,2851,2700,2024-08-19
+2356,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2500,2350,2024-08-20
+6883,Ahmednagar,Rahata,Wheat,Other,FAQ,2745,2815,2780,2024-08-21
+9212,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2500,2900,2700,2024-08-22
+6710,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,2950,2815,2024-08-23
+4242,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2500,3000,2700,2024-08-24
+4821,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2650,2500,2024-08-25
+930,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,4500,3500,2024-08-26
+6782,Ahmednagar,Rahata,Wheat,Other,FAQ,2570,2825,2700,2024-08-27
+5512,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2300,3400,2800,2024-08-28
+4360,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2601,3075,2852,2024-08-29
+2397,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2700,2450,2024-08-30
+11346,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,3000,2500,2024-08-31
+4925,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2650,2800,2700,2024-09-01
+11199,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2850,2850,2024-09-03
+5548,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2450,2800,2600,2024-09-04
+2646,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,2600,2300,2024-09-05
+14721,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2500,2700,2600,2024-09-06
+9288,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2751,3000,2875,2024-09-07
+4811,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2600,2500,2024-09-08
+6849,Ahmednagar,Rahata,Wheat,Other,FAQ,2675,2900,2826,2024-09-09
+6866,Ahmednagar,Rahata,Wheat,Other,FAQ,2700,2911,2805,2024-09-10
+924,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,3800,3150,2024-09-11
+2354,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2500,2350,2024-09-12
+12495,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2024-09-13
+4755,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2700,2500,2024-09-14
+2618,Ahmednagar,Karjat,Wheat,Other,FAQ,2200,2800,2500,2024-09-15
+12501,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2024-09-16
+4814,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2600,2500,2024-09-17
+8938,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2200,2800,2600,2024-09-18
+4367,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2611,2960,2882,2024-09-19
+1518,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2700,2350,2024-09-20
+3973,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2311,2840,2500,2024-09-21
+11451,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2800,3000,2800,2024-09-22
+6418,Ahmednagar,Rahata,Wheat,Other,FAQ,2200,2699,2616,2024-09-23
+903,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,3000,2750,2024-09-24
+4257,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2501,2900,2728,2024-09-25
+12701,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2700,2024-09-26
+938,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2600,2800,2700,2024-09-27
+4311,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2560,2900,2664,2024-09-28
+4831,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2700,2500,2024-09-29
+4661,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2400,2400,2400,2024-09-30
+14743,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2540,2540,2540,2024-10-01
+6879,Ahmednagar,Rahata,Wheat,Other,FAQ,2726,2875,2800,2024-10-02
+2377,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2200,2700,2450,2024-10-03
+6802,Ahmednagar,Rahata,Wheat,Other,FAQ,2599,2936,2651,2024-10-04
+11348,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,3000,3000,2024-10-05
+8052,Ahmednagar,Rahuri,Wheat,Other,FAQ,2650,2800,2750,2024-10-06
+6663,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,2500,2500,2024-10-07
+936,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2600,2700,2650,2024-10-09
+4288,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2550,2700,2600,2024-10-10
+7945,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,2900,2550,2024-10-11
+14419,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,3051,2800,2024-10-12
+2830,Ahmednagar,Karjat,Wheat,Other,FAQ,2700,2700,2700,2024-10-13
+14642,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2300,2900,2700,2024-10-14
+2284,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2500,2250,2024-10-15
+8062,Ahmednagar,Rahuri,Wheat,Other,FAQ,2700,2800,2750,2024-10-16
+2747,Ahmednagar,Karjat,Wheat,Other,FAQ,2400,2700,2400,2024-10-17
+2749,Ahmednagar,Karjat,Wheat,Other,FAQ,2400,2800,2400,2024-10-18
+11379,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2600,2900,2600,2024-10-19
+2580,Ahmednagar,Karjat,Wheat,Other,FAQ,2000,2800,2500,2024-10-20
+2287,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2500,2250,2024-10-21
+2563,Ahmednagar,Karjat,Wheat,Other,FAQ,2000,2600,2450,2024-10-22
+5586,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2600,3200,2850,2024-10-23
+2625,Ahmednagar,Karjat,Wheat,Other,FAQ,2200,2800,2500,2024-10-24
+4426,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2731,3151,3112,2024-10-25
+8063,Ahmednagar,Rahuri,Wheat,Other,FAQ,2700,2800,2750,2024-10-26
+11442,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2750,3100,3100,2024-10-27
+12689,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2600,2024-10-28
+2591,Ahmednagar,Karjat,Wheat,Other,FAQ,2200,2600,2450,2024-10-29
+12730,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2700,2700,2700,2024-10-30
+9829,Ahmednagar,Sangamner,Wheat,Other,FAQ,3051,3051,3051,2024-10-31
+11362,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,3200,3200,2024-11-02
+4874,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2600,2600,2600,2024-11-03
+12592,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2700,2500,2024-11-04
+12644,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2600,2600,2024-11-05
+6880,Ahmednagar,Rahata,Wheat,Other,FAQ,2731,2731,2731,2024-11-06
+2647,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,2600,2300,2024-11-07
+1550,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2800,2500,2024-11-08
+12602,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2700,2700,2024-11-09
+8017,Ahmednagar,Rahuri,Wheat,Other,FAQ,2500,3150,2850,2024-11-10
+11421,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2700,3050,2700,2024-11-11
+716,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2200,3200,2700,2024-11-12
+15511,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2400,2400,2400,2024-11-13
+9310,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2900,2941,2920,2024-11-14
+11480,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,3100,3200,3200,2024-11-15
+5561,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2500,3000,2750,2024-11-16
+4978,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2800,2800,2800,2024-11-17
+2306,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,2700,2350,2024-11-18
+9334,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,3100,3151,3125,2024-11-19
+7951,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,3000,2700,2024-11-21
+12728,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2700,2700,2700,2024-11-22
+2321,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2000,3000,2500,2024-11-23
+4706,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2100,3000,2100,2024-11-24
+8016,Ahmednagar,Rahuri,Wheat,Other,FAQ,2500,3100,2800,2024-11-25
+1474,Ahmednagar,Jamkhed,Wheat,Maharashtra 2189,FAQ,2200,2500,2350,2024-11-26
+5531,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2400,3150,2700,2024-11-27
+9261,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2600,3150,2900,2024-11-28
+15531,Ahmednagar,Shrirampur(Belapur),Wheat,Other,FAQ,2400,2400,2400,2024-11-29
+13583,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2400,2900,2600,2024-11-30
+2645,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,2500,2300,2024-12-01
+12755,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2800,2800,2800,2024-12-02
+4966,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2750,2750,2750,2024-12-03
+6843,Ahmednagar,Rahata,Wheat,Other,FAQ,2660,2950,2805,2024-12-04
+952,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2650,3000,2825,2024-12-05
+9792,Ahmednagar,Sangamner,Wheat,Other,FAQ,2698,2698,2698,2024-12-06
+13593,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2500,3000,2800,2024-12-07
+13594,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2500,3000,2800,2024-12-08
+8043,Ahmednagar,Rahuri,Wheat,Other,FAQ,2600,3050,2825,2024-12-09
+8070,Ahmednagar,Rahuri,Wheat,Other,FAQ,2700,3100,2900,2024-12-10
+4433,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2750,3200,3000,2024-12-11
+12758,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2800,2800,2800,2024-12-12
+766,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2300,2900,2600,2024-12-13
+5504,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2300,3000,2650,2024-12-14
+8096,Ahmednagar,Rahuri,Wheat,Other,FAQ,2900,3100,3000,2024-12-15
+706,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2200,2850,2525,2024-12-16
+730,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2250,3000,2625,2024-12-17
+4693,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2800,2800,2800,2024-12-18
+13204,Ahmednagar,Shrigonda,Wheat,Other,FAQ,2300,2300,2300,2024-12-19
+4451,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2825,2978,2850,2024-12-20
+12611,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2700,2700,2024-12-21
+2711,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,3000,2600,2024-12-22
+11465,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2800,3200,3200,2024-12-23
+6734,Ahmednagar,Rahata,Wheat,Other,FAQ,2520,2995,2800,2024-12-24
+6811,Ahmednagar,Rahata,Wheat,Other,FAQ,2600,3103,3070,2024-12-25
+14499,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2100,2525,2400,2024-12-26
+12799,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,3000,3000,3000,2024-12-27
+6888,Ahmednagar,Rahata,Wheat,Other,FAQ,2751,3112,3000,2024-12-28
+2705,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,3000,2550,2024-12-29
+11277,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2700,2700,2024-12-30
+11447,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2800,2900,2900,2024-12-31
+2717,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,3000,2700,2025-01-01
+940,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2600,3000,2800,2025-01-02
+14326,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2000,2100,2050,2025-01-03
+2453,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2300,3300,2800,2025-01-04
+11473,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2900,3150,2900,2025-01-05
+13585,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2400,3000,2800,2025-01-06
+9219,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2500,3050,2700,2025-01-07
+11364,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,3300,2500,2025-01-08
+2806,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,3000,2700,2025-01-09
+917,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,3300,2900,2025-01-10
+895,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,3000,2750,2025-01-11
+2708,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,3000,2600,2025-01-12
+12760,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2800,2800,2800,2025-01-13
+9320,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,3000,3000,3000,2025-01-14
+898,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,3000,2750,2025-01-15
+12786,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2900,2900,2900,2025-01-16
+4688,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2700,2700,2700,2025-01-17
+11475,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2900,3200,3200,2025-01-18
+2775,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,2700,2500,2025-01-19
+8082,Ahmednagar,Rahuri,Wheat,Other,FAQ,2800,2800,2800,2025-01-20
+11481,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,3100,3200,3200,2025-01-21
+5562,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2500,3000,2750,2025-01-22
+6921,Ahmednagar,Rahata,Wheat,Other,FAQ,2825,3201,3125,2025-01-23
+14770,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2711,2900,2800,2025-01-24
+972,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2825,3200,3012,2025-01-25
+2803,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,3000,2500,2025-01-26
+971,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2800,3300,3050,2025-01-27
+2501,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2500,2800,2650,2025-01-28
+11466,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2800,3200,3200,2025-01-29
+2690,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,2800,2550,2025-01-30
+963,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2700,3150,2925,2025-01-31
+6908,Ahmednagar,Rahata,Wheat,Other,FAQ,2800,3051,2925,2025-02-01
+7907,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,2400,2400,2025-02-02
+5000,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,3000,3000,3000,2025-02-03
+3910,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2275,3000,2901,2025-02-04
+8037,Ahmednagar,Rahuri,Wheat,Other,FAQ,2600,2850,2725,2025-02-05
+12775,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2800,3000,2800,2025-02-06
+12747,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2700,3000,2700,2025-02-07
+6944,Ahmednagar,Rahata,Wheat,Other,FAQ,2981,3065,3020,2025-02-08
+4918,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2600,3000,2800,2025-02-09
+14761,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2700,2700,2700,2025-02-12
+7950,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,3000,2700,2025-02-13
+2550,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2700,3000,2850,2025-02-14
+11260,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2700,2500,2025-02-15
+11469,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2850,3000,3000,2025-02-16
+4247,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2500,3113,2896,2025-02-17
+2826,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,3500,2900,2025-02-18
+5014,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,3000,3200,3000,2025-02-19
+4479,Ahmednagar,Kopargaon,Wheat,Other,FAQ,3000,3249,3122,2025-02-20
+11414,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2700,3000,2700,2025-02-21
+9159,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2425,2821,2623,2025-02-22
+11415,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2700,3000,2700,2025-02-23
+14763,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2700,2700,2700,2025-02-24
+9346,Ahmednagar,Rahuri(Vambori),Wheat,Other,Non-FAQ,2200,2200,2200,2025-02-25
+4871,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,3000,2500,2025-02-26
+6650,Ahmednagar,Rahata,Wheat,Other,FAQ,2485,3100,2800,2025-02-27
+2734,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,3200,2800,2025-02-28
+2508,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2500,3000,2750,2025-03-01
+2721,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,3000,2800,2025-03-02
+13568,Ahmednagar,Shrigonda(Gogargaon),Wheat,Other,FAQ,2300,2800,2600,2025-03-03
+9030,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2300,2651,2500,2025-03-04
+12679,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2600,2025-03-05
+2805,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,3000,2700,2025-03-06
+12777,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2800,3000,2800,2025-03-07
+2735,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,3200,2900,2025-03-08
+4905,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2600,2850,2700,2025-03-09
+12682,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2600,2025-03-10
+11253,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2650,2500,2025-03-11
+12607,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2700,2700,2025-03-12
+2725,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,3000,2800,2025-03-13
+9265,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2616,2650,2633,2025-03-14
+5510,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2300,3100,2800,2025-03-15
+4795,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2500,2500,2025-03-16
+7906,Ahmednagar,Rahuri,Wheat,Other,FAQ,2350,2700,2525,2025-03-17
+2551,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2700,3000,2850,2025-03-18
+4658,Ahmednagar,Newasa,Wheat,Maharashtra 2189,FAQ,2400,2400,2400,2025-03-19
+12686,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2600,2700,2600,2025-03-20
+824,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,2800,2600,2025-03-21
+6532,Ahmednagar,Rahata,Wheat,Other,FAQ,2400,2566,2485,2025-03-22
+7964,Ahmednagar,Rahuri,Wheat,Other,FAQ,2450,2600,2525,2025-03-23
+14626,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2300,2600,2500,2025-03-24
+4870,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,3000,2500,2025-03-25
+4997,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2900,3000,2900,2025-03-26
+4206,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2496,2672,2550,2025-03-27
+4959,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2700,3000,2850,2025-03-28
+809,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,2700,2550,2025-03-29
+12635,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2550,2550,2550,2025-03-30
+4759,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2400,2700,2500,2025-03-31
+7889,Ahmednagar,Rahuri,Wheat,Other,FAQ,2300,2575,2450,2025-04-01
+5521,Ahmednagar,Pathardi,Wheat,Maharashtra 2189,FAQ,2400,3100,2700,2025-04-02
+2460,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2400,3000,2700,2025-04-03
+11036,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2300,2600,2600,2025-04-04
+12403,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2500,2025-04-05
+2778,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,2800,2500,2025-04-06
+12406,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2500,2025-04-07
+4999,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2950,2950,2950,2025-04-08
+8023,Ahmednagar,Rahuri,Wheat,Other,FAQ,2525,2600,2575,2025-04-09
+12566,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2600,2600,2025-04-10
+2536,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2600,3000,2800,2025-04-11
+12568,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2600,2600,2025-04-12
+4949,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2700,2900,2700,2025-04-13
+4911,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2600,2900,2800,2025-04-14
+820,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,2800,2600,2025-04-15
+821,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2400,2800,2600,2025-04-16
+4185,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2480,2600,2500,2025-04-17
+2695,Ahmednagar,Karjat,Wheat,Other,FAQ,2300,2900,2500,2025-04-18
+14676,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2400,2650,2550,2025-04-19
+11159,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2600,2600,2025-04-20
+6679,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,2652,2550,2025-04-21
+2486,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2500,2700,2600,2025-04-22
+7930,Ahmednagar,Rahuri,Wheat,Other,FAQ,2400,2650,2525,2025-04-23
+2772,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,2500,2500,2025-04-24
+14627,Ahmednagar,Shrirampur,Wheat,Other,FAQ,2300,2600,2500,2025-04-25
+6674,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,2625,2560,2025-04-26
+11176,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2700,2700,2025-04-27
+4030,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2370,2652,2497,2025-04-28
+11117,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2350,2600,2600,2025-04-29
+11163,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2600,2600,2025-04-30
+12363,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2400,2500,2400,2025-05-01
+2493,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2500,2800,2650,2025-05-02
+4973,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2800,2800,2800,2025-05-03
+11155,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2400,2600,2600,2025-05-04
+4130,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2440,2556,2500,2025-05-05
+4119,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2425,2621,2500,2025-05-06
+4849,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2800,2500,2025-05-07
+15550,Ahmednagar,Shrirampur(Belapur),Wheat,Other,Non-FAQ,2400,2400,2400,2025-05-08
+6669,Ahmednagar,Rahata,Wheat,Other,FAQ,2500,2586,2550,2025-05-09
+9158,Ahmednagar,Rahuri(Vambori),Wheat,Other,FAQ,2425,2425,2425,2025-05-10
+11210,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2425,2650,2650,2025-05-11
+7983,Ahmednagar,Rahuri,Wheat,Other,FAQ,2500,2611,2550,2025-05-12
+4284,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2534,2572,2551,2025-05-13
+9347,Ahmednagar,Rahuri(Vambori),Wheat,Other,Non-FAQ,2200,2400,2200,2025-05-15
+9356,Ahmednagar,Rahuri(Vambori),Wheat,Other,Non-FAQ,2391,2391,2391,2025-05-16
+2482,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2500,2700,2600,2025-05-17
+12805,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,Non-FAQ,2300,2400,2400,2025-05-18
+12505,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,2500,2500,2500,2025-05-19
+4859,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,Wheat,Other,FAQ,2500,2800,2700,2025-05-20
+6750,Ahmednagar,Rahata,Wheat,Other,FAQ,2530,2731,2611,2025-05-21
+15556,Ahmednagar,Shrirampur(Belapur),Wheat,Other,Non-FAQ,2400,2400,2400,2025-05-22
+15557,Ahmednagar,Shrirampur(Belapur),Wheat,Other,Non-FAQ,2400,2400,2400,2025-05-23
+7959,Ahmednagar,Rahuri,Wheat,Other,FAQ,2450,2550,2500,2025-05-24
+11392,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2650,2700,2700,2025-05-25
+11262,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2500,2700,2500,2025-05-26
+4166,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2461,2631,2565,2025-05-27
+9353,Ahmednagar,Rahuri(Vambori),Wheat,Other,Non-FAQ,2250,2250,2250,2025-05-28
+2472,Ahmednagar,Jamkhed,Wheat,Other,FAQ,2450,2600,2475,2025-05-29
+11214,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,FAQ,2425,2700,2700,2025-05-30
+15564,Ahmednagar,Shrirampur(Belapur),Wheat,Other,Non-FAQ,2400,2400,2400,2025-05-31
+2760,Ahmednagar,Karjat,Wheat,Other,FAQ,2450,2800,2450,2025-06-01
+9755,Ahmednagar,Sangamner,Wheat,Other,FAQ,2451,2451,2451,2025-06-02
+875,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,2700,2600,2025-06-03
+4300,Ahmednagar,Kopargaon,Wheat,Other,FAQ,2551,2568,2555,2025-06-04
+886,Ahmednagar,Ahmednagar,Wheat,Other,FAQ,2500,2900,2700,2025-06-05
+15548,Ahmednagar,Shrirampur(Belapur),Wheat,Other,Non-FAQ,2400,2400,2400,2025-06-06
+2781,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,2800,2500,2025-06-07
+2783,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,2800,2500,2025-06-08
+2784,Ahmednagar,Karjat,Wheat,Other,FAQ,2500,2800,2500,2025-06-09

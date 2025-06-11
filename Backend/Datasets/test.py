@@ -33,9 +33,30 @@ def html_table_to_csv(input_file, output_file):
         print(f"An error occurred: {e}")
 
 # Example usage
-input_html = r"Datasets\RawXLS\PuneOnion.xls"  # Replace with your input HTML/XLS file path
-output_csv = r"Datasets\OnionPune.csv"   # Desired output CSV file path
-html_table_to_csv(input_html, output_csv)
+input_html1 = r"Datasets\RawXLS\KolhapurRice.xls"  # Replace with your input HTML/XLS file path
+output_csv1 = r"Datasets\KolhapurRice.csv"   # Desired output CSV file path
+
+input_html2 = r"Datasets\RawXLS\KolhapurWheat.xls"  # Replace with your input HTML/XLS file path
+output_csv2 = r"Datasets\KolhapurWheat.csv"   # Desired output CSV file path
+
+input_html3 = r"Datasets\RawXLS\KolhapurPotato.xls"  # Replace with your input HTML/XLS file path
+output_csv3 = r"Datasets\KolhapurPotato.csv"   # Desired output CSV file path
+
+input_html4 = r"Datasets\RawXLS\KolhapurOnion.xls"  # Replace with your input HTML/XLS file path
+output_csv4 = r"Datasets\KolhapurOnion.csv"   # Desired output CSV file path
+
+input_html5 = r"Datasets\RawXLS\KolhapurJowar.xls"  # Replace with your input HTML/XLS file path
+output_csv5 = r"Datasets\KolhapurJowar.csv"   # Desired output CSV file path
+
+input_html6 = r"Datasets\RawXLS\KolhapurMaize.xls"  # Replace with your input HTML/XLS file path
+output_csv6 = r"Datasets\KolhapurMaize.csv"   # Desired output CSV file path
+
+html_table_to_csv(input_html1, output_csv1)
+html_table_to_csv(input_html2, output_csv2)
+html_table_to_csv(input_html3, output_csv3)
+html_table_to_csv(input_html4, output_csv4)
+html_table_to_csv(input_html5, output_csv5)
+html_table_to_csv(input_html6, output_csv6)
 
 
 # from bs4 import BeautifulSoup
