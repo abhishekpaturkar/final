@@ -4,6 +4,7 @@ import Navbar from "../Components/Navbar"
 import Footer from "../Components/Footer"
 import PredictionChart from "../Components/PredictionChart"
 import MonthlyComparisonChart from "../Components/MonthlyComparisonChart" // Import the new component
+import PriceInsights from "../Components/PriceInsights"
 
 const Prediction = () => {
 	const [city, setCity] = useState("")
@@ -24,7 +25,6 @@ const Prediction = () => {
 			const response = await axios.get(
 				`http://127.0.0.1:5000/predict?query=${query}`
 			)
-			console.log(response.data)
 			setPredictions(response.data)
 		} catch (err) {
 			setError("Error fetching prediction.")
@@ -99,7 +99,7 @@ const Prediction = () => {
 							<MonthlyComparisonChart predictions={predictions} />
 						</div>
 
-						<div className="overflow-x-auto">
+						{/* <div className="overflow-x-auto">
 							<h2 className="text-2xl font-semibold mb-4 text-center">
 								Detailed Predictions
 							</h2>
@@ -123,6 +123,12 @@ const Prediction = () => {
 									))}
 								</tbody>
 							</table>
+						</div> */}
+						<div>
+							<h2 className="text-2xl font-semibold mb-2 text-center">
+								Insights
+							</h2>
+							<PriceInsights predictions={predictions} />
 						</div>
 					</>
 				)}
