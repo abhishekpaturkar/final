@@ -99,34 +99,9 @@ const Prediction = () => {
 							<MonthlyComparisonChart predictions={predictions} />
 						</div>
 
-						{/* <div className="overflow-x-auto">
-							<h2 className="text-2xl font-semibold mb-4 text-center">
-								Detailed Predictions
-							</h2>
-							<table className="w-full text-left border-collapse">
-								<thead>
-									<tr className="bg-green-200">
-										<th className="p-2 border">Month</th>
-										<th className="p-2 border">
-											Predicted Price (₹)/Per Quintal
-										</th>
-									</tr>
-								</thead>
-								<tbody>
-									{predictions.map((item, idx) => (
-										<tr key={idx} className="even:bg-green-50">
-											<td className="p-2 border">{item.Month}</td>
-											<td className="p-2 border">
-												₹ {item["Predicted Price"].toFixed(2)}
-											</td>
-										</tr>
-									))}
-								</tbody>
-							</table>
-						</div> */}
 						<div>
 							<h2 className="text-2xl font-semibold mb-2 text-center">
-								Insights
+								Insights for {commodity}
 							</h2>
 							<PriceInsights predictions={predictions} />
 						</div>
