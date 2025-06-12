@@ -9,7 +9,7 @@ const Footer = () => {
 				<div>
 					<h2 className="text-xl font-semibold mb-3">About Project</h2>
 					<p className="text-sm text-gray-200">
-						<strong>भविशकृषी</strong> is a Final Year BE Project aiming to
+						<strong>भविष्कृषी</strong> is a Final Year BE Project aiming to
 						empower farmers by forecasting agricultural commodity prices using
 						Deep Learning models. This helps them make informed decisions and
 						maximize their profits.
