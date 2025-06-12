@@ -57,7 +57,7 @@ const Footer = () => {
 							href="mailto:mailto:hariom.malode@aissmsioit.org"
 							className="hover:underline"
 						>
-							hariom.malode@aissmsioit.org
+							bhavishkrishi@aissmsioit.org
 						</a>
 					</p>
 					<div className="flex space-x-4 text-lg">
